@@ -13,5 +13,5 @@
 * [Promotion](Promotion/index.md)
 * [Conference](Conference/index.md)
    * [Chrome Dev Summit 2014 - 009](Conference/009-Chrome-Dev-Summit-2014/index.md)
-       * Keynote - Chrome Dev Summit 2014 (Darin Fisher) - [1503120407]
+       * [Keynote - Chrome Dev Summit 2014 (Darin Fisher) - [1503120407]](Conference/009-Chrome-Dev-Summit-2014/1503120407-keynote-chrome-dev-summit-2014-darin-fisher.md)
 
