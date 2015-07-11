@@ -8,5 +8,5 @@
 * [Polymer](Polymer/index.md)
 * [Web](Web/index.md)
 * [Startup](Startup/index.md)
-* Conference
+* [Conference](Conference/index.md)
 
