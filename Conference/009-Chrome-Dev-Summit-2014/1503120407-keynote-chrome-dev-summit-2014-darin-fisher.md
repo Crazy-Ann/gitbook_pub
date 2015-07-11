@@ -1,4 +1,4 @@
-# Keynote - Chrome Dev Summit 2014 (Darin Fisher)
+## Keynote - Chrome Dev Summit 2014 (Darin Fisher)
 
 ![video_screenshot](images/lboyR-A1woU.jpg)
 
@@ -15,7 +15,7 @@
 >  暂无，待补充。
 
 
-## 译者信息
+### 译者信息
 
 | 翻译 | 润稿 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- |
@@ -23,7 +23,7 @@
 
 
 
-## 解说词中文版：
+### 解说词中文版：
 
 嗨  大家好
 
