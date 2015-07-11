@@ -10,7 +10,5 @@
 * [Polymer](Polymer/index.md)
 * [Web](Web/index.md)
 * [Startup](Startup/index.md)
-* [Conference](Conference/index.md)
-   * Chrome Dev Summit 2014
 * [Promotion](Promotion/index.md)
 
