@@ -5,10 +5,10 @@
 * [Design](Design/index.md)
 * [Cloud](Cloud/index.md)
 * [Google Apps](GoogleApps/index.md)
+* Ads
 * [Polymer](Polymer/index.md)
 * [Web](Web/index.md)
 * [Startup](Startup/index.md)
 * [Conference](Conference/index.md)
 * [Promotion](Promotion/index.md)
-* Ads
 
