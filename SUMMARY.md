@@ -9,7 +9,7 @@
 * [Google 广告平台](Ads/index.md)
 * [Polymer](Polymer/index.md)
 * [Web 平台](Web/index.md)
-* [Startup](Startup/index.md)
+* [Google 创业者资源](Startup/index.md)
 * [Promotion](Promotion/index.md)
 * [Conference](Conference/index.md)
    * [Chrome Dev Summit 2014 - 009](Conference/009-Chrome-Dev-Summit-2014/index.md)
