@@ -7,7 +7,7 @@
 [ Youtube ](https://www.youtube.com/watch?v=lboyR-A1woU)  
 中文字幕低清视频链接：
 [ Youtube ](https://www.youtube.com/watch?v=RhiPJByIMrM)  
-字幕组内部流水号:1503120407
+字幕组内部流水号：1503120407 
 
 
 **中文字幕：**
