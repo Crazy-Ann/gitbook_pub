@@ -5,4 +5,5 @@
 * [Design](Design/index.md)
 * [Cloud](Cloud/index.md)
 * [Google Apps](GoogleApps/index.md)
+* Polymer
 
