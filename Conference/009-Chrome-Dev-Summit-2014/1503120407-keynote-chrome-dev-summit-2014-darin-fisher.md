@@ -2,15 +2,15 @@
 
 ![video_screenshot](images/lboyR-A1woU.jpg)
 
-> ** 视频发布时间**
+** 视频发布时间**
 
 > 2014年11月20日
 
-> ** 视频介绍**
+** 视频介绍**
 
 > Darin Fisher 介绍 Chrome 开发者高峰会议。本年度的高峰会议专注于性能问题。也有Polymer、 Material Design的东东，以及构建原生 App 体验的移动网页应用（使用Service Worker 以及其他技术）。
 
-> ** 视频推介语 **
+** 视频推介语 **
 
 >  暂无，待补充。
 
