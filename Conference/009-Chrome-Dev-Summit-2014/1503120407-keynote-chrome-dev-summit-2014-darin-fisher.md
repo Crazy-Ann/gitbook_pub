@@ -1,17 +1,6 @@
 # Keynote - Chrome Dev Summit 2014 (Darin Fisher)
 
-> 
-翻译：Eric Jin  
-润稿：虎子     
-原始视频链接：
-[ Youtube ](https://www.youtube.com/watch?v=lboyR-A1woU)  
-中文字幕低清视频链接：
-[ Youtube ](https://www.youtube.com/watch?v=RhiPJByIMrM)  
-字幕组内部流水号：1503120407  
-[GDG 字幕组欢迎你的加入](http://www.gfansub.com/join_translator) 
-
 ![video_screenshot](images/lboyR-A1woU.jpg)
-
 
 > ** 视频发布时间**
 
@@ -24,6 +13,16 @@
 > ** 视频推介语 **
 
 >  暂无，待补充。
+
+
+## 译者信息
+
+| 翻译 | 润稿 | 原始链接 | 中文字幕 |
+| -- | -- | -- | -- |
+| Eric Jin | 虎子 |  [ Youtube ](https://www.youtube.com/watch?v=lboyR-A1woU)  |  [ Youtube ](https://www.youtube.com/watch?v=RhiPJByIMrM) |
+
+
+> [GDG 字幕组欢迎你的加入](http://www.gfansub.com/join_translator) 
 
 
 ## 解说词中文版：
