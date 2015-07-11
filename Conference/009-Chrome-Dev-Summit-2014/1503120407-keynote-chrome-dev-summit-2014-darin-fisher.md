@@ -7,7 +7,8 @@
 [ Youtube ](https://www.youtube.com/watch?v=lboyR-A1woU)  
 中文字幕低清视频链接：
 [ Youtube ](https://www.youtube.com/watch?v=RhiPJByIMrM)  
-字幕组内部流水号：1503120407 
+字幕组内部流水号：1503120407  
+[GDG 字幕组欢迎你的加入](http://www.gfansub.com/join_translator) 
 
 ![video_screenshot](images/lboyR-A1woU.jpg)
 
