@@ -12,5 +12,5 @@
 * [Startup](Startup/index.md)
 * [Promotion](Promotion/index.md)
 * [Conference](Conference/index.md)
-   * Chrome Dev Summit 2014 - 009
+   * [Chrome Dev Summit 2014 - 009](Conference/009-Chrome-Dev-Summit-2014/index.md)
 
