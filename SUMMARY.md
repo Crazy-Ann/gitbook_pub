@@ -9,5 +9,5 @@
 * [Web](Web/index.md)
 * [Startup](Startup/index.md)
 * [Conference](Conference/index.md)
-* Promotion
+* [Promotion](Promotion/index.md)
 
