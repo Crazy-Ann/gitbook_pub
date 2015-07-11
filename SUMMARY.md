@@ -1,7 +1,7 @@
 # Summary
 
 * [写在前面](README.md)
-* [Android](Android/index.md)
+* [Android 平台](Android/index.md)
 * [Chrome](Chrome/index.md)
 * [Design](Design/index.md)
 * [Cloud](Cloud/index.md)
