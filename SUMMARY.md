@@ -9,6 +9,7 @@
        * [WebP for Game Devs - 1504030547](Android/031-Game-On/1504030547-webp-for-game-devs.md)
        * [Saved Games In-Depth (Part 1) - 1504070556](Android/031-Game-On/1504070556-saved-games-in-depth-part_1.md)
        * [Saved Games In-Depth (Part 2) - 1504030548](Android/031-Game-On/1504030548-saved-games-in-depth-part_2.md)
+       * Smaller Flipbook Textures with CRABBY - 1504030544
 * [Chrome 平台](Chrome/index.md)
 * [设计](Design/index.md)
 * [云计算](Cloud/index.md)
