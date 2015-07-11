@@ -1,4 +1,4 @@
-## Coffee with a Googler: Chat with Allen Huang of AndroidTVisher)
+## Coffee with a Googler: Chat with Allen Huang of AndroidTV)
 
 ![video_screenshot](images/4hsa7uJFyx8.jpg) 
 
