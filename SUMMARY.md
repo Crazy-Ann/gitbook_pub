@@ -13,6 +13,7 @@
    * [Coffee with a Googler - 012](Startup/012-Coffee-With-A-Googler/index.md)
        * [Coffee with a Googler : Chat with Allen Huang of AndroidTV - 1503040384](Startup/012-Coffee-With-A-Googler/1503040384-coffee-with-a-googler-chat-with-allen0-huang-of-androidtv.md)
        * [Coffee with a Googler: Chat with Fred Chung about developer advocacy - 1503070395](Startup/012-Coffee-With-A-Googler/1503070395-coffee-with-a-googler-chat-with-fred-chung-about-developer-advocacy.md)
+       * Coffee with a Googler: Google Fit platform with Michelle Haq - 1503210443
 * [宣传视频](Promotion/index.md)
 * [Google 各类开发者会议](Conference/index.md)
    * [Chrome Dev Summit 2014 - 009](Conference/009-Chrome-Dev-Summit-2014/index.md)
