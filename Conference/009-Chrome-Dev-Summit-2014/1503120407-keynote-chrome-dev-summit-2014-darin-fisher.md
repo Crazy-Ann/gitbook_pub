@@ -1,5 +1,6 @@
 # Keynote - Chrome Dev Summit 2014 (Darin Fisher)
 
+
 > 
 翻译：Eric Jin  
 润稿：虎子     
@@ -11,6 +12,15 @@
 [GDG 字幕组欢迎你的加入](http://www.gfansub.com/join_translator) 
 
 ![video_screenshot](images/lboyR-A1woU.jpg)
+
+
+> ** 视频介绍**
+
+> Darin Fisher introduces the Chrome Developer Summit. This year the Summit presentation mainly focuses on performance, Polymer, Material Design, and building mobile web apps that work like apps with Service Worker and other technologies. but also features breakouts and panels to discuss what you want to discuss.
+
+> ** 视频发布时间**
+
+> 2014年11月20日
 
 
 **中文字幕：**
