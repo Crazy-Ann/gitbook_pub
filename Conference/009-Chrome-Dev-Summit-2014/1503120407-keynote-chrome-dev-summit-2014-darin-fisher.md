@@ -9,7 +9,7 @@
 [ Youtube ](https://www.youtube.com/watch?v=RhiPJByIMrM)  
 字幕组内部流水号：1503120407 
 
-![video_screenshot](lboyR-A1woU.jpg)
+![video_screenshot](images/lboyR-A1woU.jpg)
 
 
 **中文字幕：**
