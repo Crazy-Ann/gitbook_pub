@@ -4,7 +4,7 @@
 * [Android 平台](Android/index.md)
 * [Chrome 平台](Chrome/index.md)
 * [设计](Design/index.md)
-* [Cloud](Cloud/index.md)
+* [云计算](Cloud/index.md)
 * [Google Apps](GoogleApps/index.md)
 * [Ads](Ads/index.md)
 * [Polymer](Polymer/index.md)
