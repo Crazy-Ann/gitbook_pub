@@ -3,5 +3,5 @@
 * [Android](Android/index.md)
 * [Chrome](Chrome/index.md)
 * [Design](Design/index.md)
-* Cloud
+* [Cloud](Cloud/index.md)
 
