@@ -8,12 +8,11 @@
 
 ** 视频介绍**
 
->  In this episode of Coffee with a Googler, Laurence Moroney chats with Allen Huang of AndroidTV. Allen tells us how to bring your android developer skills to the living room, on a variety of devices from TVs to cable boxes to video game consoles. ）。
+>  在这个 Coffee with a Googler 系列视频中，Laurence 与 Android TV 团队的 Allen 对话，Allen 会给 Android 开发者聊聊，如何在“大屏幕”上施展才华。
 
 ** 视频推介语 **
 
 >  暂无，待补充。
-
 
 ### 译者信息
 
