@@ -5,6 +5,7 @@
    * [Game On! 游戏开发系列](Android/031-Game-On/index.md)
        * [Pie Noon - 1503060393](Android/031-Game-On/1503060393-pie-noon.md)
        * [The Death of Base Game Activity - 1504030543](Android/031-Game-On/1504030543-the-death-of-base-game-activity.md)
+       * Surviving OpenGL Context Loss - 1504030546
 * [Chrome 平台](Chrome/index.md)
 * [设计](Design/index.md)
 * [云计算](Cloud/index.md)
