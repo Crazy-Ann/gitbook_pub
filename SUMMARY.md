@@ -5,7 +5,7 @@
 * [Chrome 平台](Chrome/index.md)
 * [设计](Design/index.md)
 * [云计算](Cloud/index.md)
-* [Google应用开发](GoogleApps/index.md)
+* [Google 应用开发](GoogleApps/index.md)
 * [Ads](Ads/index.md)
 * [Polymer](Polymer/index.md)
 * [Web](Web/index.md)
