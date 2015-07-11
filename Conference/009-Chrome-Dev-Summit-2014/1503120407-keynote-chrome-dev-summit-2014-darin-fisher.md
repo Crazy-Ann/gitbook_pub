@@ -16,14 +16,14 @@
 
 > ** 视频介绍**
 
-> Darin Fisher introduces the Chrome Developer Summit. This year the Summit presentation mainly focuses on performance, Polymer, Material Design, and building mobile web apps that work like apps with Service Worker and other technologies. but also features breakouts and panels to discuss what you want to discuss.
+> Darin Fisher 介绍 Chrome 开发者高峰会议。本年度的高峰会议专注于性能问题。也有Polymer、 Material Design的东东，以及构建原生 App 体验的移动网页应用（使用Service Worker 以及其他技术）。
 
 > ** 视频发布时间**
 
 > 2014年11月20日
 
 
-**中文字幕：**
+## 解说词中文版：
 
 嗨  大家好
 
