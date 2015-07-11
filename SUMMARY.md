@@ -2,7 +2,7 @@
 
 * [写在前面](README.md)
 * [Android 平台](Android/index.md)
-* [Chrome](Chrome/index.md)
+* [Chrome 平台](Chrome/index.md)
 * [Design](Design/index.md)
 * [Cloud](Cloud/index.md)
 * [Google Apps](GoogleApps/index.md)
