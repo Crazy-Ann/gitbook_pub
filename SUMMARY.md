@@ -8,7 +8,7 @@
 * [Google 应用开发](GoogleApps/index.md)
 * [Google 广告平台](Ads/index.md)
 * [Polymer](Polymer/index.md)
-* [Web](Web/index.md)
+* [Web 平台](Web/index.md)
 * [Startup](Startup/index.md)
 * [Promotion](Promotion/index.md)
 * [Conference](Conference/index.md)
