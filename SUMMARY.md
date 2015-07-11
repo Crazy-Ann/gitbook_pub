@@ -7,5 +7,5 @@
 * [Google Apps](GoogleApps/index.md)
 * [Polymer](Polymer/index.md)
 * [Web](Web/index.md)
-* Startup
+* [Startup](Startup/index.md)
 
