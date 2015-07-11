@@ -12,7 +12,7 @@
        * [Smaller Flipbook Textures with CRABBY - 1504030544](Android/031-Game-On/1504030544-smaller-flipbook-textures-with-crabby.md)
        * [Google Tag Manager - 1504030545](Android/031-Game-On/1504030545-google-tag-manager.md)
        * [Flatbuffers - 1505050794](Android/031-Game-On/1505050794-flatbuffers.md)
-       * Achievement Point Pointers - 1505050796
+       * [Achievement Point Pointers - 1505050796](Android/031-Game-On/1505050796-achievement-point-pointers.md)
 * [Chrome 平台](Chrome/index.md)
 * [设计](Design/index.md)
 * [云计算](Cloud/index.md)
