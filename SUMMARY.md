@@ -1,5 +1,5 @@
 # Summary
 
-* [Chrome](Chrome/index.md)
 * [Android](Android/index.md)
+* [Chrome](Chrome/index.md)
 
