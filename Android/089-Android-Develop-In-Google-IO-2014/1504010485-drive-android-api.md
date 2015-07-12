@@ -1,6 +1,6 @@
 ## Drive Android API  
 
-![video_screenshot](images/6Dl6BdrA-sQ.jpg)   ![](1rUZmkifDPk.jpg)
+![video_screenshot](images/1rUZmkifDPk.jpg) 
 
 ** 视频发布时间**
  
