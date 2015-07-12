@@ -1,7 +1,7 @@
 ##  Voice Driven GDK Glassware
 
 ![video_screenshot](images/vGotlqDeUGk.jpg)
-![](vGotlqDeUGk.jpg)
+
 ** 视频发布时间**
  
 > 2014年6月21日
