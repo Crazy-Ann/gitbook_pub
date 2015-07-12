@@ -1,7 +1,7 @@
 ## Lightning Talk: Games for Google Cast
 
 ![video_screenshot](images/5nbB1ux0D3I.jpg)
-
+![](5nbB1ux0D3I.jpg)
 ** 视频发布时间**
  
 > 2015年3月12日
