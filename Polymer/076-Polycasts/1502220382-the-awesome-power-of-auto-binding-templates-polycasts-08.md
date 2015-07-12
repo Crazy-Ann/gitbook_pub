@@ -1,7 +1,7 @@
 
 ## The Awesome Power of Auto-Binding Templates -- Polycasts #08
 
-![video_screenshot](images/lboyR-A1woU.jpg)
+![video_screenshot](images/82LfXCeuaOo.jpg)
 
 ** 视频发布时间**
  
