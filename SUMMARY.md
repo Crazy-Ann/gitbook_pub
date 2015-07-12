@@ -236,7 +236,7 @@
        * [Google developer tools and APIs for iOS - 1503190436](Conference/065-IO-Bytes-2014/1503190436-google-developer-tools-and-apis-for-ios.md)
        * [Whet your appetite with IO Bytes - 1501080021](Conference/065-IO-Bytes-2014/1501080021-whet-your-appetite-with-io-bytes.md)
    * [PlayTime@Shanghai - 095](Conference/095-PlayTime-Shanghai/index.md)
-       * [主题演讲 Chris Yerga - 1504060549](Conference/095-PlayTime-Shanghai/1504060549-zhu_ti_yan_jiang_chris_yerga.md)
+       * [主题演讲 Chris Yerga - 1504060549](Conference/095-PlayTime-Shanghai/1504060549-zhuti_yan_jiang_chris_yerga_md.md)
        * [如何成功地开发你的应用 Ellie Powers - 1504060550](Conference/095-PlayTime-Shanghai/1504060550-ellie-powers.md)
        * [在Google上营利 Brahim Elbouchikhi - 1504060551](Conference/095-PlayTime-Shanghai/1504060551-brahim-elbouchikhi.md)
        * [Playtime Shanghai event sizzle reel - 1504070552](Conference/095-PlayTime-Shanghai/1504070552-playtime-shanghai-event-sizzle-reel.md)
