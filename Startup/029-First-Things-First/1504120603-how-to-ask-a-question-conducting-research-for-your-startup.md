@@ -1,7 +1,7 @@
 ## How to ask a question: conducting research for your startup
 
 ![video_screenshot](images/8tiuWYs5Z-A.jpg)
-![](8tiuWYs5Z-A.jpg)
+
 ** 视频发布时间**
  
 > 2014年11月17日
