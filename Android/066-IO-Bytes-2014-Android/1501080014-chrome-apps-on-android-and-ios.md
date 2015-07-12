@@ -1,7 +1,7 @@
 
 ## Chrome Apps on Android and iOS
 
-![video_screenshot](images/lboyR-A1woU.jpg)
+![video_screenshot](images/vi/nU4lvgTrjFI.jpg)
 
 ** 视频发布时间**
  
