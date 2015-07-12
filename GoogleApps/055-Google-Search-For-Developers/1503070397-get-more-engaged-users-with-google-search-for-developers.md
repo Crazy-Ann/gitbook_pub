@@ -1,7 +1,7 @@
 ## Get more engaged users with Google Search for Developers
 
 ![video_screenshot](images/wYmEwLgj2ik.jpg)
-
+![](wYmEwLgj2ik.jpg)
 ** 视频发布时间**
  
 > 2015年2月26日
