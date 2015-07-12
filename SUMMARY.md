@@ -16,7 +16,7 @@
        * [Frequency Scaling - 1505050797](Android/031-Game-On/1505050797-frequency-scaling.md)
        * [Meet the Management APIs - 1501140367](Android/031-Game-On/1501140367-meet-the-management-apis.md)
        * [Y U Ship Broken Games - 1505050795](Android/031-Game-On/1505050795-y-u-ship-broken-games.md)
-   * [Android Performance Patterns](Android/088-Android-Performance-Patterns/index.md)
+   * [Android Performance Patterns - 088](Android/088-Android-Performance-Patterns/index.md)
        * [Garbage Collection in Android - 1503170425](Android/088-Android-Performance-Patterns/1503170425-garbage-collection-in-android.md)
        * [Performance Cost of Memory Leaks - 1503170424](Android/088-Android-Performance-Patterns/1503170424-performance-cost-of-memory-leaks.md)
        * [Rendering Performance 101 - 1501130351](Android/088-Android-Performance-Patterns/1501130351-rendering-performance-101.md)
