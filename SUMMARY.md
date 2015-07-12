@@ -221,7 +221,7 @@
        * [Google developer tools and APIs for iOS - 1503190436](Conference/065-IO-Bytes-2014/1503190436-google-developer-tools-and-apis-for-ios.md)
        * [Whet your appetite with IO Bytes - 1501080021](Conference/065-IO-Bytes-2014/1501080021-whet-your-appetite-with-io-bytes.md)
    * [PlayTime@Shanghai - 095](Conference/095-PlayTime-Shanghai/index.md)
-       *  主题演讲 Chris Yerga - 1504060549
+       * [主题演讲 Chris Yerga - 1504060549](Conference/095-PlayTime-Shanghai/1504060549-zhu_ti_yan_jiang_chris_yerga.md)
 * [开源开放技术](Opensource/index.md)
    * [Compressor Head - 013](Opensource/013-Compressor-Head/index.md)
        * [The Trailer, Season 2 - 1503060385](Opensource/013-Compressor-Head/1503060385-the-trailer-season-2.md)
