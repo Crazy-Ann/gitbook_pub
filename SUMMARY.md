@@ -21,7 +21,7 @@
        * [Performance Cost of Memory Leaks - 1503170424](Android/088-Android-Performance-Patterns/1503170424-performance-cost-of-memory-leaks.md)
        * [Rendering Performance 101 - 1501130351](Android/088-Android-Performance-Patterns/1501130351-rendering-performance-101.md)
        * [Understanding Overdraw - 1501130352](Android/088-Android-Performance-Patterns/1501130352-understanding-overdraw.md)
-       * Understanding VSYNC - 1501130353
+       * [Understanding VSYNC - 1501130353](Android/088-Android-Performance-Patterns/1501130353-understanding-vsync.md)
 * [Chrome 平台](Chrome/index.md)
 * [设计](Design/index.md)
 * [云计算](Cloud/index.md)
