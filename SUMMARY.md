@@ -36,7 +36,7 @@
        * [Understanding Battery Drain on Android - 1501130365](Android/088-Android-Performance-Patterns/1501130365-understanding-battery-drain-on-android.md)
        * [Battery Drain and WakeLocks - 1501130366](Android/088-Android-Performance-Patterns/1501130366-battery-drain-and-wakelocks.md)
        * [Memory Performance 101 - 1504170661](Android/088-Android-Performance-Patterns/1504170661-memory-performance-101.md)
-   * [Android Develop in Google I/O 2014 - 089](Android/089-Android-Develop-In-Google-IO-2014/index.md)
+   * [I/O 2014 Android 开发专题 - 089](Android/089-Android-Develop-In-Google-IO-2014/index.md)
        * [Activity Transitions - 1504020505](Android/089-Android-Develop-In-Google-IO-2014/1504020505-activity-transitions.md)
        * [Building Apps For Android TV - 1504020520](Android/089-Android-Develop-In-Google-IO-2014/1504020520-building-apps-for-android-tv.md)
        * [Building great Android media experiences - 1504020510](Android/089-Android-Develop-In-Google-IO-2014/1504020510-building-great-android-media-experiences.md)
