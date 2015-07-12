@@ -205,7 +205,7 @@
        * [Drive engagement with social challenges - 1504070558](Startup/061-How-I/1504070558-drive-engagement-with-social-challenges.md)
 * [宣传视频](Promotion/index.md)
    * [Uncategorized - 999](Promotion/999-Uncategorized/index.md)
-       * I/O Extended 2014 - Join me - 1502220383
+       * [I/O Extended 2014 - Join me - 1502220383](Promotion/999-Uncategorized/1502220383-io-extended-2014-join-me.md)
 * [Google 各类开发者会议](Conference/index.md)
    * [2014 Chrome 开发者高峰会议 - 009](Conference/009-Chrome-Dev-Summit-2014/index.md)
        * [Keynote - Chrome Dev Summit 2014 (Darin Fisher) - 1503120407](Conference/009-Chrome-Dev-Summit-2014/1503120407-keynote-chrome-dev-summit-2014-darin-fisher.md)
