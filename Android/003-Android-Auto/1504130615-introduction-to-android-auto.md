@@ -1,7 +1,7 @@
 ## DevBytes: Introduction to Android Auto
 
 ![video_screenshot](images/ctiaVxgclsg.jpg)
-![](ctiaVxgclsg.jpg)
+
 ** 视频发布时间**
  
 > 2014年11月18日
