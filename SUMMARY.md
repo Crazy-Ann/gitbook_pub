@@ -131,6 +131,6 @@
        * [How to Go Viral Without Really Trying - 1504150641](Conference/039-Google-at-GDC-2015/1504150641-how-to-go-viral-without-really-trying.md)
    * [Devoxx 2014 Interviews - 024](Conference/024-Devoxx-2014-Interviews/index.md)
        * [What's new in Android 5.0 Lollipop - 1504260740](Conference/024-Devoxx-2014-Interviews/1504260740-whats-new-in-android-5-lollipop.md)
-       * Android Tools - 1504260743
+       * [Android Tools - 1504260743](Conference/024-Devoxx-2014-Interviews/1504260743-android-tools.md)
 * [开源开放技术](Opensource/index.md)
 
