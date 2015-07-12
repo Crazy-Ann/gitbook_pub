@@ -76,6 +76,7 @@
        * [Introduction to Android Auto - 1504130615](Android/003-Android-Auto/1504130615-introduction-to-android-auto.md)
        * [Android Auto Messaging - 1504130617](Android/003-Android-Auto/1504130617-android-auto-messaging.md)
        * [Android Auto Audio - 1504130616](Android/003-Android-Auto/1504130616-android-auto-audio.md)
+   * Android Wear - 006
 * [Chrome 平台](Chrome/index.md)
    * [IO Bytes 2014 - Chrome and Web - 067](Chrome/067-IO-Bytes-2014-Chrome_and_Web/index.md)
        * [Using the PageSpeed API - 1505070815](Chrome/067-IO-Bytes-2014-Chrome_and_Web/1505070815-using-the-pagespeed-api.md)
