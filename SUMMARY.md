@@ -224,7 +224,7 @@
        * [主题演讲 Chris Yerga - 1504060549](Conference/095-PlayTime-Shanghai/1504060549-zhu_ti_yan_jiang_chris_yerga.md)
        * [如何成功地开发你的应用 Ellie Powers - 1504060550](Conference/095-PlayTime-Shanghai/1504060550-ellie-powers.md)
        * [在Google上营利 Brahim Elbouchikhi - 1504060551](Conference/095-PlayTime-Shanghai/1504060551-brahim-elbouchikhi.md)
-       * Playtime Shanghai event sizzle reel - 1504070552
+       * [Playtime Shanghai event sizzle reel - 1504070552](Conference/095-PlayTime-Shanghai/1504070552-playtime-shanghai-event-sizzle-reel.md)
 * [开源开放技术](Opensource/index.md)
    * [Compressor Head - 013](Opensource/013-Compressor-Head/index.md)
        * [The Trailer, Season 2 - 1503060385](Opensource/013-Compressor-Head/1503060385-the-trailer-season-2.md)
