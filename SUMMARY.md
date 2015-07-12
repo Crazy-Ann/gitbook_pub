@@ -68,6 +68,7 @@
        * [Introduction to Google Play - 1504030534](Android/091-Android-Distribute-In-Google-IO-2014/1504030534-introduction-to-google-play.md)
        * [Google Play: building your user community - 1504030535](Android/091-Android-Distribute-In-Google-IO-2014/1504030535-google-play-building-your-user-community.md)
        * [Optimizing Apps for Education - 1504030536](Android/091-Android-Distribute-In-Google-IO-2014/1504030536-optimizing-apps-for-education.md)
+       * Succeeding in Education Technology - 1504030530
 * [Chrome 平台](Chrome/index.md)
 * [设计](Design/index.md)
 * [云计算](Cloud/index.md)
