@@ -1,6 +1,6 @@
 ## Big genomic data on Google Cloud Platform
 
-![video_screenshot](images/lboyR-A1woU.jpg)
+![video_screenshot](images/ExNxi_X4qug.jpg)
 
 ** 视频发布时间**
  
