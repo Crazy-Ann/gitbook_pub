@@ -91,7 +91,7 @@
        * [Beach Buggy Racing Multiplayer with Nearby Connections (Play Services) - 1503060387](Android/005-Android-TV/1503060387-beach-buggy-racing-multiplayer-with-nearby-connections-play-services.md)
    * [Android for Work - 106](Android/106-Android-For-Work/index.md)
        * [Android for Work for Developers - 1503060390](Android/106-Android-For-Work/1503060390-android-for-work-for-developers.md)
-       * App Configurations, Testing and Launchers - 1504110590
+       * [App Configurations, Testing and Launchers - 1504110590](Android/106-Android-For-Work/1504110590-app-configurations-testing-and-launchers.md)
 * [Chrome 平台](Chrome/index.md)
    * [IO Bytes 2014 - Chrome and Web - 067](Chrome/067-IO-Bytes-2014-Chrome_and_Web/index.md)
        * [Using the PageSpeed API - 1505070815](Chrome/067-IO-Bytes-2014-Chrome_and_Web/1505070815-using-the-pagespeed-api.md)
