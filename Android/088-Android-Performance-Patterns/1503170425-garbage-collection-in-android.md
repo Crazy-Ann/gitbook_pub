@@ -2,7 +2,7 @@
 
 ![video_screenshot](images/pzfzz50W5Uo.jpg)
 
-** 视频发布时间**
+**视频发布时间**
  
 >  2015年3月11日
 
