@@ -104,7 +104,8 @@
        * [Powering the next killer app with the Google Cloud Platform - 1504210672](Cloud/021-Devbytes-Google-Cloud-Platform/1504210672-powering-the-next-killer-app-with-the-google-cloud-platform.md)
        * [Introduction to Google Cloud Endpoints - 1504210675](Cloud/021-Devbytes-Google-Cloud-Platform/1504210675-introduction-to-google-cloud-endpoints.md)
        * [The Beauty of Scale with Google Cloud Platform - 1504210678](Cloud/021-Devbytes-Google-Cloud-Platform/1504210678-the-beauty-of-scale-with-google-cloud-platform.md)
-   * Google Cloud Platform - Big Data - 105
+   * [Google Cloud Platform - Big Data - 105](Cloud/105-Google-Cloud-Platform-Big-Data/index.md)
+       * GDELT & BigQuery: Understand the world - 1502200379
 * [Google 应用开发](GoogleApps/index.md)
    * [Launchpad Online - 072](GoogleApps/072-Launchpad-Online/index.md)
        * [The Setup: Creating new apps using Google APIs - 1503190428](GoogleApps/072-Launchpad-Online/1503190428-the-setup-creating-new-apps-using-google-apis.md)
