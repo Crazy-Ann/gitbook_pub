@@ -81,6 +81,7 @@
        * [Using the PageSpeed API - 1505070815](Chrome/067-IO-Bytes-2014-Chrome_and_Web/1505070815-using-the-pagespeed-api.md)
        * [Fabulous Forms for the multi-device web - 1505070816](Chrome/067-IO-Bytes-2014-Chrome_and_Web/1505070816-fabulous-forms-for-the-multi-device-web.md)
        * [Testing multi-screen web pages - 1505070817](Chrome/067-IO-Bytes-2014-Chrome_and_Web/1505070817-testing-multi-screen-web-pages.md)
+       * Responsive images today - 1505070819
 * [设计](Design/index.md)
 * [云计算](Cloud/index.md)
    * [DevBytes: Google Cloud Platform - 021](Cloud/021-Devbytes-Google-Cloud-Platform/index.md)
