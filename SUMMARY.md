@@ -154,7 +154,7 @@
        * [Using srcset for responsive images - 1505050790](GoogleApps/019-Devbytes-2014/1505050790-using-srcset-for-responsive-images.md)
        * [The picture element for art direction - 1505050791](GoogleApps/019-Devbytes-2014/1505050791-the-picture-element-for-art-direction.md)
    * [uncategorized - 999](GoogleApps/999-Uncategorized/index.md)
-       * Sun Surveyor brings augmented reality to photographers using Google Maps APIs - 1504200668
+       * [Sun Surveyor brings augmented reality to photographers using Google Maps APIs - 1504200668](GoogleApps/999-Uncategorized/1504200668-sun-surveyor-brings-augmented-reality-to-photographers-using-google-maps-apis.md)
 * [Google 广告平台](Ads/index.md)
 * [Polymer](Polymer/index.md)
    * [Polycasts - 076](Polymer/076-Polycasts/index.md)
