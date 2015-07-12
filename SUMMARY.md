@@ -84,6 +84,7 @@
        * [Responsive images today - 1505070819](Chrome/067-IO-Bytes-2014-Chrome_and_Web/1505070819-responsive-images-today.md)
        * [Web Performance Testing at YouTube - 1505070828](Chrome/067-IO-Bytes-2014-Chrome_and_Web/1505070828-web-performance-testing-at-youtube.md)
        * [Building sites for the multi-device web - 1505070820](Chrome/067-IO-Bytes-2014-Chrome_and_Web/1505070820-building-sites-for-the-multi-device-web.md)
+       * Deep dive: Google Cloud Messaging for Chrome - 1505070827
 * [设计](Design/index.md)
 * [云计算](Cloud/index.md)
    * [DevBytes: Google Cloud Platform - 021](Cloud/021-Devbytes-Google-Cloud-Platform/index.md)
