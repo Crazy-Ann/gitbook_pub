@@ -141,7 +141,7 @@
    * [DevBytes 2014 - 019](GoogleApps/019-Devbytes-2014/index.md)
        * [Web Components - Template - 1505040789](GoogleApps/019-Devbytes-2014/1505040789-web-components-template.md)
        * [Wearable DataLayer API - 1505050792](GoogleApps/019-Devbytes-2014/1505050792-wearable-datalayer-api.md)
-       * Using srcset for responsive images - 1505050790
+       * [Using srcset for responsive images - 1505050790](GoogleApps/019-Devbytes-2014/1505050790-using-srcset-for-responsive-images.md)
 * [Google 广告平台](Ads/index.md)
 * [Polymer](Polymer/index.md)
 * [Web 平台](Web/index.md)
