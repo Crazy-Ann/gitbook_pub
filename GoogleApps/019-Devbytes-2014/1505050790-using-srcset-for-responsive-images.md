@@ -1,7 +1,7 @@
 ## Using srcset for responsive images
 
 ![video_screenshot](images/Pzc5Dly_jEM.jpg)
-![](Pzc5Dly_jEM.jpg)
+
 ** 视频发布时间**
  
 > 2014年9月25日
