@@ -1,6 +1,6 @@
 ## Introducing Route 85
 
-![video_screenshot](images/lboyR-A1woU.jpg)
+![video_screenshot](images/2fIhW4jSJ_8.jpg)
 
 ** 视频发布时间**
  
