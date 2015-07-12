@@ -20,7 +20,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| 韩淼 | 素年待锦 | -- | [ Youtube ]( https://www.youtube.com/watch?v=NHVtLC5QOpo )  |  [ Youtube ]( https://www.youtube.com/watch?v=nfsTB0J2JG0 ) | 1504030546 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| 韩淼 | 素年待锦 | —— | [ Youtube ]( https://www.youtube.com/watch?v=NHVtLC5QOpo )  |  [ Youtube ]( https://www.youtube.com/watch?v=nfsTB0J2JG0 ) | 1504030546 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
 
 
 
