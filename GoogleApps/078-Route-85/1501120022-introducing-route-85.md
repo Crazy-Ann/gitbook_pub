@@ -1,7 +1,7 @@
 ## Introducing Route 85
 
 ![video_screenshot](images/2fIhW4jSJ_8.jpg)
-![](2fIhW4jSJ_8.jpg)
+
 ** 视频发布时间**
  
 > 2014年12月12日
