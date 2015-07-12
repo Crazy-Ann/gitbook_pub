@@ -1,7 +1,7 @@
 ## DevBytes - Powering the next killer app with the Google Cloud Platform
 
 ![video_screenshot](images/xuPKrjJ8Ijs.jpg)
-![](xuPKrjJ8Ijs.jpg)
+
 ** 视频发布时间**
  
 > 2014年3月21日
