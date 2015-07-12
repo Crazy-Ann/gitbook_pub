@@ -165,6 +165,7 @@
    * [How I - 061](Startup/061-How-I/index.md)
        * [Use BigQuery to find my most valuable customers - 1504070573](Startup/061-How-I/1504070573-use-bigquery-to-find-my-most-valuable-customers.md)
        * [Manage beta testing communities using Google Play - 1504070572](Startup/061-How-I/1504070572-manage-beta-testing-communities-using-google-play.md)
+       * Use paper wireframing to build native prototypes - 1504070570
 * [宣传视频](Promotion/index.md)
 * [Google 各类开发者会议](Conference/index.md)
    * [2014 Chrome 开发者高峰会议 - 009](Conference/009-Chrome-Dev-Summit-2014/index.md)
