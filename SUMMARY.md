@@ -32,6 +32,7 @@
        * [Performance Cost of Memory Leaks - 1501130361](Android/088-Android-Performance-Patterns/1501130361-performance-cost-of-memory-leaks.md)
        * [Memory Performance 101 - 1501130362](Android/088-Android-Performance-Patterns/1501130362-memory-performance-101.md)
        * [Tool - Memory Monitor - 1501130363](Android/088-Android-Performance-Patterns/1501130363-tool-memory-monitor.md)
+       * Battery Performance 101 - 1501130364
 * [Chrome 平台](Chrome/index.md)
 * [设计](Design/index.md)
 * [云计算](Cloud/index.md)
