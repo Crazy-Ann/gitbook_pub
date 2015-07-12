@@ -35,6 +35,7 @@
        * [Battery Performance 101 - 1501130364](Android/088-Android-Performance-Patterns/1501130364-battery-performance-101.md)
        * [Understanding Battery Drain on Android - 1501130365](Android/088-Android-Performance-Patterns/1501130365-understanding-battery-drain-on-android.md)
        * [Battery Drain and WakeLocks - 1501130366](Android/088-Android-Performance-Patterns/1501130366-battery-drain-and-wakelocks.md)
+       * Memory Performance 101 - 1504170661
 * [Chrome 平台](Chrome/index.md)
 * [设计](Design/index.md)
 * [云计算](Cloud/index.md)
