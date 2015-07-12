@@ -1,7 +1,7 @@
 ## Google I/O 2014 - Android Wear: The developer's perspective
 
 ![video_screenshot](images/sha_w3_5c2c.jpg)
-![](sha_w3_5c2c.jpg)
+
 ** 视频发布时间**
  
 > 2014年6月26日
