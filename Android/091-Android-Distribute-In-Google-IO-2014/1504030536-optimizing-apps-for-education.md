@@ -1,7 +1,7 @@
 ## Optimizing Apps for Education
 
 ![video_screenshot](images/_AZ6UcPz-_g.jpg)
-
+![](_AZ6UcPz-_g.jpg)
 ** 视频发布时间**
  
 > 2014年6月23日
