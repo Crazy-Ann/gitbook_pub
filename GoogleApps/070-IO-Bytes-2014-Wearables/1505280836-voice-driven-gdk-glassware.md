@@ -1,6 +1,6 @@
 ##  Voice Driven GDK Glassware
 
-![video_screenshot](images/lboyR-A1woU.jpg)
+![video_screenshot](images/vGotlqDeUGk.jpg)
 
 ** 视频发布时间**
  
