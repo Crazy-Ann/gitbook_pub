@@ -103,7 +103,7 @@
        * [Deep dive: Google Cloud Messaging for Chrome - 1505070827](Chrome/067-IO-Bytes-2014-Chrome_and_Web/1505070827-deep-dive-google-cloud-messaging-for-chrome.md)
 * [设计](Design/index.md)
    * [DesignBytes - 017](Design/017-Designbytes/index.md)
-       * Paper and Ink: The Materials that Matter - 1505050793
+       * [Paper and Ink: The Materials that Matter - 1505050793](Design/017-Designbytes/1505050793-paper-and-ink-the-materials-that-matter.md)
 * [云计算](Cloud/index.md)
    * [DevBytes: Google Cloud Platform - 021](Cloud/021-Devbytes-Google-Cloud-Platform/index.md)
        * [Powering the next killer app with the Google Cloud Platform - 1504210672](Cloud/021-Devbytes-Google-Cloud-Platform/1504210672-powering-the-next-killer-app-with-the-google-cloud-platform.md)
