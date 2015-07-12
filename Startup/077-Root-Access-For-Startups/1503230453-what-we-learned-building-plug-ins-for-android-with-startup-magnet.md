@@ -1,6 +1,6 @@
 ## Google Root Access: What we learned building plug-ins for Android, with startup Magnet
 
-![video_screenshot](images/lboyR-A1woU.jpg)
+![video_screenshot](images/5gArR3JACBI.jpg)
 
 ** 视频发布时间**
  
