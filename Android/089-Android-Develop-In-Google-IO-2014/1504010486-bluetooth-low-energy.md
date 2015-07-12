@@ -14,11 +14,11 @@
 
 >  暂无，待补充。
 
-### 译者信息
+### 译者信息 
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | ----|----|----|----|----|----|----|
-| Wallace4ever  | 點墨 | 程路 | [ Youtube ]( https://www.youtube.com/watch?v=2fZThdNbHcQ ) | [ Youtube ](https://www.youtube.com/watch?v=GJ-Tab8Tqc8) | 1504010486 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator ) |
+| Wallace4ever | 點墨 | 程路 | [ Youtube ]( https://www.youtube.com/watch?v=2fZThdNbHcQ ) | [ Youtube ](https://www.youtube.com/watch?v=GJ-Tab8Tqc8) | 1504010486 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator ) |
 
 
 ### 解说词中文版：
