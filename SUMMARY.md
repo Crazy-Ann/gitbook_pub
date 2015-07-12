@@ -124,5 +124,6 @@
        * [Automate Publishing for Google Play APIs - 1504150639](Conference/039-Google-at-GDC-2015/1504150639-automate-publishing-for-google-play-apis.md)
        * [3 Game Design Mistakes You're Making - 1504150636](Conference/039-Google-at-GDC-2015/1504150636-3-game-design-mistakes-youre-making.md)
        * [Android TV - 1504150638](Conference/039-Google-at-GDC-2015/1504150638-android_tv.md)
+       * How to Go Viral Without Really Trying - 1504150641
 * [开源开放技术](Opensource/index.md)
 
