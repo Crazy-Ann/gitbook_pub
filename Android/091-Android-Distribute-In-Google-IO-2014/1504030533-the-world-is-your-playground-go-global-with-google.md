@@ -1,7 +1,7 @@
 ## The world is your playground - go global with Google
 
 ![video_screenshot](images/PndUfIx6d3o.jpg)
-![](PndUfIx6d3o.jpg)
+
 ** 视频发布时间**
  
 > 2014年6月25日
