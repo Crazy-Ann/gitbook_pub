@@ -26,7 +26,7 @@
        * [Why 60fps? - 1501130355](Android/088-Android-Performance-Patterns/1501130355-why-60fps.md)
        * [Android UI and the GPU - 1501130356](Android/088-Android-Performance-Patterns/1501130356-android-ui-and-the-gpu.md)
        * [Invalidations, Layouts, and Performance - 1501130357](Android/088-Android-Performance-Patterns/1501130357-invalidations-layouts-and-performance.md)
-       * Overdraw, Cliprect, QuickReject - 1501130358
+       * [Overdraw, Cliprect, QuickReject - 1501130358](Android/088-Android-Performance-Patterns/1501130358-overdraw-cliprect-quickreject.md)
 * [Chrome 平台](Chrome/index.md)
 * [设计](Design/index.md)
 * [云计算](Cloud/index.md)
