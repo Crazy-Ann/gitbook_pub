@@ -114,7 +114,7 @@
        * [The Beauty of Scale with Google Cloud Platform - 1504210678](Cloud/021-Devbytes-Google-Cloud-Platform/1504210678-the-beauty-of-scale-with-google-cloud-platform.md)
    * [Google Cloud Platform - Big Data - 105](Cloud/105-Google-Cloud-Platform-Big-Data/index.md)
        * [GDELT & BigQuery: Understand the world - 1502200379](Cloud/105-Google-Cloud-Platform-Big-Data/1502200379-gdelt-&-bigquery-understand-the-world.md)
-   * Uncategorized - 999
+   * [Uncategorized - 999](Cloud/999-Uncategorized/index.md)
 * [Google 应用开发](GoogleApps/index.md)
    * [Launchpad Online - 072](GoogleApps/072-Launchpad-Online/index.md)
        * [The Setup: Creating new apps using Google APIs - 1503190428](GoogleApps/072-Launchpad-Online/1503190428-the-setup-creating-new-apps-using-google-apis.md)
