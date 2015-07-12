@@ -117,7 +117,7 @@
        * [How to overcome customer objections when selling tech, with startup Guesswork - 1503280458](Startup/077-Root-Access-For-Startups/1503280458-how-to-overcome-customer-objections-when-selling-tech-with-startup-guesswork.md)
    * [First Things First - 029](Startup/029-First-Things-First/index.md)
        * [Getting started with Android: A crash-course in developing for Android - 1504120601](Startup/029-First-Things-First/1504120601-getting-started-with-android-a-crash-course-in-developing-for-android.md)
-       * How to ask a question: conducting research for your startup - 1504120603
+       * [How to ask a question: conducting research for your startup - 1504120603](Startup/029-First-Things-First/1504120603-how-to-ask-a-question-conducting-research-for-your-startup.md)
 * [宣传视频](Promotion/index.md)
 * [Google 各类开发者会议](Conference/index.md)
    * [Chrome Dev Summit 2014 - 009](Conference/009-Chrome-Dev-Summit-2014/index.md)
