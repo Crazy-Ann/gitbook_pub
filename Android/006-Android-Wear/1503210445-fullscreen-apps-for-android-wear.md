@@ -1,7 +1,7 @@
 ## Fullscreen apps for Android Wear
 
 ![video_screenshot](images/naf_WbtFAlY.jpg)
-![](naf_WbtFAlY.jpg)
+
 ** 视频发布时间**
  
 > 2014年6月25日
