@@ -65,6 +65,7 @@
 * [设计](Design/index.md)
 * [云计算](Cloud/index.md)
 * [Google 应用开发](GoogleApps/index.md)
+   * Launchpad Online - 072
 * [Google 广告平台](Ads/index.md)
 * [Polymer](Polymer/index.md)
 * [Web 平台](Web/index.md)
