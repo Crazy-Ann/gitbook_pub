@@ -2,7 +2,7 @@
 
 ![video_screenshot](images/HXQhu6qfTVU.jpg)
 
-** 视频发布时间**
+** 视频发布时间 **
  
 > 2015年1月6日
 
