@@ -1,6 +1,6 @@
 ## Get more engaged users with Google Search for Developers
 
-![video_screenshot](images/lboyR-A1woU.jpg)
+![video_screenshot](images/wYmEwLgj2ik.jpg)
 
 ** 视频发布时间**
  
