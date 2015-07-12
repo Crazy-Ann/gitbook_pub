@@ -72,7 +72,7 @@
        * [Subscriptions Made Easy with Google Play - 1504030531](Android/091-Android-Distribute-In-Google-IO-2014/1504030531-subscriptions-made-easy-with-google-play.md)
        * [The world is your playground - go global with Google - 1504030533](Android/091-Android-Distribute-In-Google-IO-2014/1504030533-the-world-is-your-playground-go-global-with-google.md)
        * [Maximizing discoverability on Google Play - 1504030538](Android/091-Android-Distribute-In-Google-IO-2014/1504030538-maximizing-discoverability-on-google-play.md)
-   * Android Auto - 003
+   * [Android Auto - 003](Android/003-Android-Auto/index.md)
 * [Chrome 平台](Chrome/index.md)
 * [设计](Design/index.md)
 * [云计算](Cloud/index.md)
