@@ -1,4 +1,4 @@
-## How I: Build open platforms on Android 
+## How I: Get cheap, automatic analytics for my business using BigQuery
 
 ![video_screenshot](images/pU6CLjJUf7U.jpg) 
 
