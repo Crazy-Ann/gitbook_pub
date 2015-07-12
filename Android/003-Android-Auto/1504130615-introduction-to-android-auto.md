@@ -1,6 +1,6 @@
 ## DevBytes: Introduction to Android Auto
 
-![video_screenshot](images/lboyR-A1woU.jpg)
+![video_screenshot](images/ctiaVxgclsg.jpg)
 
 ** 视频发布时间**
  
