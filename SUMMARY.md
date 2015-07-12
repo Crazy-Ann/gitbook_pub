@@ -96,7 +96,7 @@
        * [Google Play services 6.1 - 1503290481](GoogleApps/054-Google-Play-Services/1503290481-google-play-services-61.md)
        * [Google Play Services 7.0 - 1503200437](GoogleApps/054-Google-Play-Services/1503200437-google-play-services-70.md)
        * [Google Play Services 6.5 - 1501080015](GoogleApps/054-Google-Play-Services/1501080015-google-play-services-65.md)
-   * [Google Maps SDK for iOS - 053](GoogleApps/053-Google-Maps-SDK-For-IOS/index.md)
+   * [谷歌地图 iOS SDK - 053](GoogleApps/053-Google-Maps-SDK-For-IOS/index.md)
        * [Maps Live: New Features in the Google Maps Mobile APIs for Android and iOS - 1504300777](GoogleApps/053-Google-Maps-SDK-For-IOS/1504300777-maps-live-new-features-in-the-google-maps-mobile-apis-for-android-and-ios.md)
    * [Google Search for Developers - 055](GoogleApps/055-Google-Search-For-Developers/index.md)
        * [Is your app in the Google index? - 1504120598](GoogleApps/055-Google-Search-For-Developers/1504120598-is-your-app-in-the-google-index.md)
