@@ -1,6 +1,6 @@
 ## The world is your playground - go global with Google
 
-![video_screenshot](images/lboyR-A1woU.jpg)
+![video_screenshot](images/PndUfIx6d3o.jpg)
 
 ** 视频发布时间**
  
