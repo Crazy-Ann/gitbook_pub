@@ -14,12 +14,11 @@
 
 >  暂无，待补充。
 
-
 ### 译者信息
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| 伍文其 | Martin | -- | [ Youtube ]( https://www.youtube.com/watch?v=07xPF7L6klY )  |  [ Youtube ]( https://www.youtube.com/watch?v=gq9i_QRXYlU ) | 1504070568 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| 伍文其 | Martin | -- | [ Youtube ]( https://www.youtube.com/watch?v=mwBEj9sXKN8 )  |  [ Youtube ]( https://www.youtube.com/watch?v=g-GP85ea_Fo ) | 1504070568 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
 
 
 ### 解说词中文版：
