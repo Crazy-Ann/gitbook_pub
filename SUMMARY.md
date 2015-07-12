@@ -53,6 +53,7 @@
        * [Getting your Game on the Big Screen - 1504020518](Android/089-Android-Develop-In-Google-IO-2014/1504020518-getting-your-game-on-the-big-screen.md)
        * [I hear you like realtime memes - 1504020511](Android/089-Android-Develop-In-Google-IO-2014/1504020511-i-hear-you-like-realtime-memes.md)
        * [Offerize your App - 1504020506](Android/089-Android-Develop-In-Google-IO-2014/1504020506-offerize-your-app.md)
+       * Using the Android Job Scheduler - 1504020504
 * [Chrome 平台](Chrome/index.md)
 * [设计](Design/index.md)
 * [云计算](Cloud/index.md)
