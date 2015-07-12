@@ -185,4 +185,5 @@
        * [Arithmetic Compression (Ep 5, Compressor Head) Google - 1503070394](Opensource/013-Compressor-Head/1503070394-arithmetic-compression-ep-5-compressor-head-google.md)
        * [Introducing Compressor Head - 1502120372](Opensource/013-Compressor-Head/1502120372-introducing-compressor-head.md)
        * [Episode 1 (Variable Length Codes) - 1502120373](Opensource/013-Compressor-Head/1502120373-episode-1-variable-length-codes.md)
+       * Episode 2 (The LZ77 Compression Family) - 1502120374
 
