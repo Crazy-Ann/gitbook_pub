@@ -23,7 +23,7 @@
        * [Understanding Overdraw - 1501130352](Android/088-Android-Performance-Patterns/1501130352-understanding-overdraw.md)
        * [Understanding VSYNC - 1501130353](Android/088-Android-Performance-Patterns/1501130353-understanding-vsync.md)
        * [Tool - Profile GPU Rendering - 1501130354](Android/088-Android-Performance-Patterns/1501130354-tool-profile-gpu-rendering.md)
-       * Why 60fps? - 1501130355
+       * [Why 60fps? - 1501130355](Android/088-Android-Performance-Patterns/1501130355-why-60fps.md)
 * [Chrome 平台](Chrome/index.md)
 * [设计](Design/index.md)
 * [云计算](Cloud/index.md)
