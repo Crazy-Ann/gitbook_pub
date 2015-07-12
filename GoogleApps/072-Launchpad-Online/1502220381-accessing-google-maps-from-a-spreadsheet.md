@@ -2,7 +2,7 @@
 
 ![video_screenshot](images/hkpj-xzXhaw.jpg)
 
-** 视频发布时间**
+** 视频发布时间 **
  
 > 2015年2月6日
 
