@@ -1,7 +1,7 @@
 ## GDELT & BigQuery: Understand the world
 
 ![video_screenshot](images/Psp7YivWL90.jpg)
-![](Psp7YivWL90.jpg)
+
 ** 视频发布时间**
  
 > 2015年2月12日
