@@ -1,6 +1,6 @@
 ## Game On! - Achievement Point Pointers
 
-![video_screenshot](images/lboyR-A1woU.jpg)
+![video_screenshot](images/bEJNe9XMNdA.jpg)
 
 ** 视频发布时间**
  
