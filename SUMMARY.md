@@ -94,7 +94,7 @@
        * [App Configurations, Testing and Launchers - 1504110590](Android/106-Android-For-Work/1504110590-app-configurations-testing-and-launchers.md)
    * [IO Bytes 2014 - Android - 066](Android/066-IO-Bytes-2014-Android/index.md)
        * [Chrome Apps on Android and iOS - 1501080014](Android/066-IO-Bytes-2014-Android/1501080014-chrome-apps-on-android-and-ios.md)
-       * Perf Primer  CPU, GPU and your Android game - 1501080017
+       * [Perf Primer  CPU, GPU and your Android game - 1501080017](Android/066-IO-Bytes-2014-Android/1501080017-perf-primer-cpu-gpu-and-your-android-game.md)
 * [Chrome 平台](Chrome/index.md)
    * [IO Bytes 2014 - Chrome and Web - 067](Chrome/067-IO-Bytes-2014-Chrome_and_Web/index.md)
        * [Using the PageSpeed API - 1505070815](Chrome/067-IO-Bytes-2014-Chrome_and_Web/1505070815-using-the-pagespeed-api.md)
