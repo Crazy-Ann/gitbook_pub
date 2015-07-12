@@ -79,7 +79,7 @@
    * [Google Play Services - 054](GoogleApps/054-Google-Play-Services/index.md)
        * [Google Play services 6.1 - 1503290481](GoogleApps/054-Google-Play-Services/1503290481-google-play-services-61.md)
        * [Google Play Services 7.0 - 1503200437](GoogleApps/054-Google-Play-Services/1503200437-google-play-services-70.md)
-       * Google Play Services 6.5 - 1501080015
+       * [Google Play Services 6.5 - 1501080015](GoogleApps/054-Google-Play-Services/1501080015-google-play-services-65.md)
 * [Google 广告平台](Ads/index.md)
 * [Polymer](Polymer/index.md)
 * [Web 平台](Web/index.md)
