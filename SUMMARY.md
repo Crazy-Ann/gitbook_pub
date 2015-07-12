@@ -63,6 +63,7 @@
        * [Drive Android API - 1504010485](Android/089-Android-Develop-In-Google-IO-2014/1504010485-drive-android-api.md)
    * [Android Studio - 004](Android/004-Android-Studio/index.md)
        * [Layout Editor (Ep 3, Android Studio) - 1503290479](Android/004-Android-Studio/1503290479-layout-editor-ep-3-android-studio.md)
+       * Introducing Gradle (Ep 2, Android Studio) - 1503170426
 * [Chrome 平台](Chrome/index.md)
 * [设计](Design/index.md)
 * [云计算](Cloud/index.md)
