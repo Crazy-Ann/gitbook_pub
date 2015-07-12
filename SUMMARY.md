@@ -66,6 +66,7 @@
 * [云计算](Cloud/index.md)
 * [Google 应用开发](GoogleApps/index.md)
    * [Launchpad Online - 072](GoogleApps/072-Launchpad-Online/index.md)
+       * The Setup: Creating new apps using Google APIs - 1503190428
 * [Google 广告平台](Ads/index.md)
 * [Polymer](Polymer/index.md)
 * [Web 平台](Web/index.md)
