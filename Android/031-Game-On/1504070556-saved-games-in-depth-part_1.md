@@ -1,7 +1,6 @@
 ## GameOn! - Saved Games In-Depth (Part 1)
 
-![video_screenshot](images/iHc2RBZs5T0.jpg)
-
+![video_screenshot](iHc2RBZs5T0.jpg)
 
 ** 视频发布时间**
  
