@@ -1,7 +1,7 @@
 
 ## Game On! - Flatbuffers
 
-![video_screenshot](iQTxMkSJ1dQ.jpg)
+![video_screenshot](images/iQTxMkSJ1dQ.jpg)
 
 ** 视频发布时间**
  
