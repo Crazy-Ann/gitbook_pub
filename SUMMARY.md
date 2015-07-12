@@ -115,7 +115,7 @@
    * [Google Cloud Platform - Big Data - 105](Cloud/105-Google-Cloud-Platform-Big-Data/index.md)
        * [GDELT & BigQuery: Understand the world - 1502200379](Cloud/105-Google-Cloud-Platform-Big-Data/1502200379-gdelt-&-bigquery-understand-the-world.md)
    * [Uncategorized - 999](Cloud/999-Uncategorized/index.md)
-       * Introducing Google Cloud Platform Resources - 1501190370
+       * [Introducing Google Cloud Platform Resources - 1501190370](Cloud/999-Uncategorized/1501190370-introducing-google-cloud-platform-resources.md)
 * [Google 应用开发](GoogleApps/index.md)
    * [Launchpad Online - 072](GoogleApps/072-Launchpad-Online/index.md)
        * [The Setup: Creating new apps using Google APIs - 1503190428](GoogleApps/072-Launchpad-Online/1503190428-the-setup-creating-new-apps-using-google-apis.md)
