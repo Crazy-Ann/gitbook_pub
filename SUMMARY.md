@@ -16,6 +16,7 @@
        * [Frequency Scaling - 1505050797](Android/031-Game-On/1505050797-frequency-scaling.md)
        * [Meet the Management APIs - 1501140367](Android/031-Game-On/1501140367-meet-the-management-apis.md)
        * [Y U Ship Broken Games - 1505050795](Android/031-Game-On/1505050795-y-u-ship-broken-games.md)
+   * Android Performance Patterns
 * [Chrome 平台](Chrome/index.md)
 * [设计](Design/index.md)
 * [云计算](Cloud/index.md)
