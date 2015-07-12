@@ -204,7 +204,6 @@
        * [Find, screen, and hire developers - 1503120406](Startup/061-How-I/1503120406-find-screen-and-hire-developers.md)
        * [Drive engagement with social challenges - 1504070558](Startup/061-How-I/1504070558-drive-engagement-with-social-challenges.md)
 * [宣传视频](Promotion/index.md)
-   * [Google Developers Summit 2014 - 044](Promotion/044-Google-Developers-Summit-2014/indexmd.md)
    * [Uncategorized - 999](Promotion/999-Uncategorized/index.md)
        * [Google Developers - 1501150369](Promotion/044-Google-Developers-Summit-2014/1501150369-google-developers.md)
        * [I/O Extended 2014 - Join me - 1502220383](Promotion/999-Uncategorized/1502220383-io-extended-2014-join-me.md)
