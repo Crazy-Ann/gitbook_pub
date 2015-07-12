@@ -149,5 +149,6 @@
        * [BigQuery and user-defined functions - 1504260744](Conference/024-Devoxx-2014-Interviews/1504260744-bigquery-and-user-defined-functions.md)
    * [IO Bytes 2014 - 065](Conference/065-IO-Bytes-2014/index.md)
        * [Dart in Google Cloud - 1505070810](Conference/065-IO-Bytes-2014/1505070810-dart-in-google-cloud.md)
+       * Big genomic data on Google Cloud Platform - 1505070811
 * [开源开放技术](Opensource/index.md)
 
