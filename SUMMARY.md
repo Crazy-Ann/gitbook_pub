@@ -70,7 +70,7 @@
        * [Listing your files in Google Drive - 1503190429](GoogleApps/072-Launchpad-Online/1503190429-listing-your-files-in-google-drive.md)
        * [Customizing Google Analytics for your startup - 1503290473](GoogleApps/072-Launchpad-Online/1503290473-customizing-google-analytics-for-your-startup.md)
        * [The Launchpad Online series - 1503190427](GoogleApps/072-Launchpad-Online/1503190427-the-launchpad-online-series.md)
-       * Getting started with Google Analytics - 1503290472
+       * [Getting started with Google Analytics - 1503290472](GoogleApps/072-Launchpad-Online/1503290472-getting-started-with-google-analytics.md)
 * [Google 广告平台](Ads/index.md)
 * [Polymer](Polymer/index.md)
 * [Web 平台](Web/index.md)
