@@ -228,6 +228,7 @@
        * [在Google上营利 Brahim Elbouchikhi - 1504060551](Conference/095-PlayTime-Shanghai/1504060551-brahim-elbouchikhi.md)
        * [Playtime Shanghai event sizzle reel - 1504070552](Conference/095-PlayTime-Shanghai/1504070552-playtime-shanghai-event-sizzle-reel.md)
    * [Google Developers Summit 2014 - 044](Conference/044-Google-Developers-Summit-2014/index.md)
+       * Google Developers - 1501150369
 * [开源开放技术](Opensource/index.md)
    * [Compressor Head - 013](Opensource/013-Compressor-Head/index.md)
        * [The Trailer, Season 2 - 1503060385](Opensource/013-Compressor-Head/1503060385-the-trailer-season-2.md)
