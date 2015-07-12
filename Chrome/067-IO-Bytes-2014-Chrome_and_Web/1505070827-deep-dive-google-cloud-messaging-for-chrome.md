@@ -1,6 +1,6 @@
 ## Deep dive: Google Cloud Messaging for Chrome 
 
-![video_screenshot](images/oK09n_PGhTo.jpg)  ![](g_zkOOWsmco.jpg)
+![video_screenshot](images/g_zkOOWsmco.jpg) 
 
 ** 视频发布时间**
  
