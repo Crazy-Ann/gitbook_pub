@@ -76,6 +76,7 @@
        * [Getting started with Google Analytics - 1503290472](GoogleApps/072-Launchpad-Online/1503290472-getting-started-with-google-analytics.md)
        * [Accessing Google Maps from a spreadsheet?!? - 1502220381](GoogleApps/072-Launchpad-Online/1502220381-accessing-google-maps-from-a-spreadsheet.md)
        * [Change the world in 10 lines of code - 1503080398](GoogleApps/072-Launchpad-Online/1503080398-change-the-world-in-10-lines-of-code.md)
+   * Google Play Services - 054
 * [Google 广告平台](Ads/index.md)
 * [Polymer](Polymer/index.md)
 * [Web 平台](Web/index.md)
