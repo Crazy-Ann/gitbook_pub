@@ -1,6 +1,6 @@
 ## Google Play Services 6.5
 
-![video_screenshot](images/lboyR-A1woU.jpg)
+![video_screenshot](images/fvtMtfCuEpw.jpg)
 
 ** 视频发布时间**
  
