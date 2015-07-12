@@ -1,7 +1,6 @@
 ## The picture element for art direction
 
-![video_screenshot](images/lboyR-A1woU.jpg)
-
+![video_screenshot](images/K2NN_XzAdr4.jpg)
 
 ** 视频发布时间**
  
