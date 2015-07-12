@@ -85,6 +85,7 @@
        * [Chat with Francis Ma about Google Play services - 1501120028](Startup/012-Coffee-With-A-Googler/1501120028-coffee-with-a-googler-chat-with-francis-ma-about-google-play-services.md)
    * [Root Access For Startups - 077](Startup/077-Root-Access-For-Startups/index.md)
        * [What we learned building plug-ins for Android, with startup Magnet - 1503230453](Startup/077-Root-Access-For-Startups/1503230453-what-we-learned-building-plug-ins-for-android-with-startup-magnet.md)
+       * How to use crowdfunding to your advantage, with startup Hale Devices - 1503280462
 * [宣传视频](Promotion/index.md)
 * [Google 各类开发者会议](Conference/index.md)
    * [Chrome Dev Summit 2014 - 009](Conference/009-Chrome-Dev-Summit-2014/index.md)
