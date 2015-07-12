@@ -1,6 +1,6 @@
 ## Lightning Talk: Games for Google Cast
 
-![video_screenshot](images/lboyR-A1woU.jpg)
+![video_screenshot](images/5nbB1ux0D3I.jpg)
 
 ** 视频发布时间**
  
