@@ -56,6 +56,7 @@
        * [Using the Android Job Scheduler - 1504020504](Android/089-Android-Develop-In-Google-IO-2014/1504020504-using-the-android-job-scheduler.md)
        * [From Holo to Material - 1504020526](Android/089-Android-Develop-In-Google-IO-2014/1504020526-from-holo-to-material.md)
        * [Under the Hood of Android Auto - 1504020501](Android/089-Android-Develop-In-Google-IO-2014/1504020501-under-the-hood-of-android-auto.md)
+       * Isolation for Android App Developers - 1504020498
 * [Chrome 平台](Chrome/index.md)
 * [设计](Design/index.md)
 * [云计算](Cloud/index.md)
