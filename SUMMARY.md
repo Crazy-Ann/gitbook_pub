@@ -17,7 +17,7 @@
        * [Meet the Management APIs - 1501140367](Android/031-Game-On/1501140367-meet-the-management-apis.md)
        * [Y U Ship Broken Games - 1505050795](Android/031-Game-On/1505050795-y-u-ship-broken-games.md)
    * [Android Performance Patterns](Android/088-Android-Performance-Patterns/index.md)
-       * Garbage Collection in Android - 1503170425
+       * [Garbage Collection in Android - 1503170425](Android/088-Android-Performance-Patterns/1503170425-garbage-collection-in-android.md)
 * [Chrome 平台](Chrome/index.md)
 * [设计](Design/index.md)
 * [云计算](Cloud/index.md)
