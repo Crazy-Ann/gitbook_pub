@@ -37,5 +37,6 @@
        * [TLS All the Things! - Security with Performance(Chris Palmer) - 1503140412](Conference/009-Chrome-Dev-Summit-2014/1503140412-tls-all-the-things-security-with-performancechris-palmer.md)
        * [Let’s build some apps with Polymer!(Rob Dodson) - 1503150415](Conference/009-Chrome-Dev-Summit-2014/1503150415-lets-build-some-apps-with-polymerrob-dodson.md)
        * [Day One Closing Remarks(Sundar Pichai) - 1503150417](Conference/009-Chrome-Dev-Summit-2014/1503150417-day-one-closing-remarkssundar-pichai.md)
+       * Chrome Leadership panel - 1503160422
 * [开源开放技术](Opensource/index.md)
 
