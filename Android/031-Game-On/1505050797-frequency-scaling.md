@@ -2,7 +2,7 @@
 
 ![video_screenshot](images/AZ97b2nT-Vo.jpg)
 
-** 视频发布时间**
+** 视频发布时间 **
  
 > 2014年9月10日
 
