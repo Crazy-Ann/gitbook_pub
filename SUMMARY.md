@@ -74,7 +74,7 @@
        * [Maximizing discoverability on Google Play - 1504030538](Android/091-Android-Distribute-In-Google-IO-2014/1504030538-maximizing-discoverability-on-google-play.md)
    * [Android Auto - 003](Android/003-Android-Auto/index.md)
        * [Introduction to Android Auto - 1504130615](Android/003-Android-Auto/1504130615-introduction-to-android-auto.md)
-       * Android Auto Messaging - 1504130617
+       * [Android Auto Messaging - 1504130617](Android/003-Android-Auto/1504130617-android-auto-messaging.md)
 * [Chrome 平台](Chrome/index.md)
 * [设计](Design/index.md)
 * [云计算](Cloud/index.md)
