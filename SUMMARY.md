@@ -164,7 +164,6 @@
        * [Build something people want: Solving real problems - 1504120605](Startup/029-First-Things-First/1504120605-build-something-people-want-solving-real-problems.md)
    * [How I - 061](Startup/061-How-I/index.md)
        * Use BigQuery to find my most valuable customers - 1504070573
-       * Use BigQuery to find my most valuable customers - 1504070573
 * [宣传视频](Promotion/index.md)
 * [Google 各类开发者会议](Conference/index.md)
    * [2014 Chrome 开发者高峰会议 - 009](Conference/009-Chrome-Dev-Summit-2014/index.md)
