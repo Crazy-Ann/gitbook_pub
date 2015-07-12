@@ -1,7 +1,7 @@
 ## Devoxx 2014 Interviews: What's new in Android 5.0 Lollipop
 
 ![video_screenshot](images/l2-yvOmq5B4.jpg)
-![](l2-yvOmq5B4.jpg)
+
 ** 视频发布时间**
  
 > 2014年11月27日
