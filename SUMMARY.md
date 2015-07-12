@@ -186,4 +186,5 @@
        * [Introducing Compressor Head - 1502120372](Opensource/013-Compressor-Head/1502120372-introducing-compressor-head.md)
        * [Episode 1 (Variable Length Codes) - 1502120373](Opensource/013-Compressor-Head/1502120373-episode-1-variable-length-codes.md)
        * [Episode 2 (The LZ77 Compression Family) - 1502120374](Opensource/013-Compressor-Head/1502120374-episode-2-the-lz77-compression-family.md)
+       * Episode 3 (Markov Chain Compression) - 1502120375
 
