@@ -1,0 +1,15 @@
+{
+    "plugins": [
+        "duoshuo",
+        "ga"
+    ],
+    "pluginsConfig": {
+        "duoshuo": {
+        "short_name": "sub",
+        "theme": "default"
+        },
+        "ga":{
+            "token": "UA-41211546-3"
+        }
+    }
+}
