@@ -1,6 +1,6 @@
 ## Coffee with a Googler: Google Fit platform with Michelle Haq
 
-![video_screenshot](images/lboyR-A1woU.jpg)
+![video_screenshot](images/yMSRr0lvlm0.jpg)
 
 ** 视频发布时间**
  
