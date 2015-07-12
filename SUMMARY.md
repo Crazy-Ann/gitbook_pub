@@ -79,7 +79,7 @@
 * [Chrome 平台](Chrome/index.md)
 * [设计](Design/index.md)
 * [云计算](Cloud/index.md)
-   * DevBytes: Google Cloud Platform - 021
+   * [DevBytes: Google Cloud Platform - 021](Cloud/021-Devbytes-Google-Cloud-Platform/index.md)
 * [Google 应用开发](GoogleApps/index.md)
    * [Launchpad Online - 072](GoogleApps/072-Launchpad-Online/index.md)
        * [The Setup: Creating new apps using Google APIs - 1503190428](GoogleApps/072-Launchpad-Online/1503190428-the-setup-creating-new-apps-using-google-apis.md)
