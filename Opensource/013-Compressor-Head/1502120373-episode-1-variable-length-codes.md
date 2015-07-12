@@ -1,6 +1,6 @@
 ## Compressor Head - Episode 1 (Variable Length Codes)
 
-![video_screenshot](images/lboyR-A1woU.jpg)
+![video_screenshot](images/6rnF2Mo80x0.jpg)
 
 ** 视频发布时间**
  
