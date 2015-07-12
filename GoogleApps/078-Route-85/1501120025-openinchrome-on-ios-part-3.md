@@ -1,7 +1,7 @@
 ## Route 85: OpenInChrome on iOS, Part 3
 
 ![video_screenshot](images/Oi2xHZnmZow.jpg)
-![](Oi2xHZnmZow.jpg)
+
 ** 视频发布时间**
  
 > 2014年12月18日
