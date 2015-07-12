@@ -64,7 +64,7 @@
    * [Android Studio - 004](Android/004-Android-Studio/index.md)
        * [Layout Editor (Ep 3, Android Studio) - 1503290479](Android/004-Android-Studio/1503290479-layout-editor-ep-3-android-studio.md)
        * [Introducing Gradle (Ep 2, Android Studio) - 1503170426](Android/004-Android-Studio/1503170426-introducing-gradle-ep-2-android-studio.md)
-   * [Android Distribute in Google I/O 2014 - 091](Android/091-Android-Distribute-In-Google-IO-2014/index.md)
+   * [I/O 2014 Android 分发主题 - 091](Android/091-Android-Distribute-In-Google-IO-2014/index.md)
        * [Introduction to Google Play - 1504030534](Android/091-Android-Distribute-In-Google-IO-2014/1504030534-introduction-to-google-play.md)
        * [Google Play: building your user community - 1504030535](Android/091-Android-Distribute-In-Google-IO-2014/1504030535-google-play-building-your-user-community.md)
        * [Optimizing Apps for Education - 1504030536](Android/091-Android-Distribute-In-Google-IO-2014/1504030536-optimizing-apps-for-education.md)
