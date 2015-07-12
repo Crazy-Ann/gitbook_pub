@@ -1,6 +1,6 @@
 ## DevBytes: Media Router Framework - Part 1 - Media Router API
 
-![video_screenshot](images/lboyR-A1woU.jpg)
+![video_screenshot](images/_NGB10uN6OI.jpg)
 
 ** 视频发布时间**
  
