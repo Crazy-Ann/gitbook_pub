@@ -176,6 +176,7 @@
        * [Use URL builder to measure ROI on social media - 1504070561](Startup/061-How-I/1504070561-use-url-builder-to-measure-roi-on-social-media.md)
        * [Use events to build DeadSocial's brand - 1504070557](Startup/061-How-I/1504070557-use-events-to-build-deadsocials-brand.md)
        * [Use BigQuery to visualize streaming data - 1503220452](Startup/061-How-I/1503220452-use-bigquery-to-visualize-streaming-data.md)
+       * Find, screen, and hire developers - 1503120406
 * [宣传视频](Promotion/index.md)
 * [Google 各类开发者会议](Conference/index.md)
    * [2014 Chrome 开发者高峰会议 - 009](Conference/009-Chrome-Dev-Summit-2014/index.md)
