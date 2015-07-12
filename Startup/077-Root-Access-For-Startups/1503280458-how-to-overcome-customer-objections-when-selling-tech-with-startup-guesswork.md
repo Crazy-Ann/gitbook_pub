@@ -1,4 +1,4 @@
-## Google Root Access: How to overcome customer objections when selling tech, with startup Guesswork
+![](L0hfcYb9XiY.jpg)## Google Root Access: How to overcome customer objections when selling tech, with startup Guesswork
 
 ![video_screenshot](images/L0hfcYb9XiY.jpg)
 
