@@ -1,7 +1,7 @@
 ## Compressor Head - Episode 1 (Variable Length Codes)
 
 ![video_screenshot](images/6rnF2Mo80x0.jpg)
-
+![](6rnF2Mo80x0.jpg)
 ** 视频发布时间**
  
 > 2014年5月20日
