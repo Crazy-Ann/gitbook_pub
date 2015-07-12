@@ -2,7 +2,6 @@
 ## Google Root Access: How to use crowdfunding to your advantage, with startup Hale Devices
 
 ![video_screenshot](images/ewd7dfWnAIo.jpg)
-![](ewd7dfWnAIo.jpg)
 
 ** 视频发布时间**
  
