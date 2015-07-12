@@ -1,6 +1,6 @@
 ## How to ask a question: conducting research for your startup
 
-![video_screenshot](images/lboyR-A1woU.jpg)
+![video_screenshot](images/8tiuWYs5Z-A.jpg)
 
 ** 视频发布时间**
  
