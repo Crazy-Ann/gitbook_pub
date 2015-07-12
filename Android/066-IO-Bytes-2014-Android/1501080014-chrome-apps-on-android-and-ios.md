@@ -2,7 +2,7 @@
 ## Chrome Apps on Android and iOS
 
 ![video_screenshot](images/vi/nU4lvgTrjFI.jpg)
-
+![](vi:nU4lvgTrjFI.jpg)
 ** 视频发布时间**
  
 > 2014年6月26日
