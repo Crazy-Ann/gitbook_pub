@@ -38,6 +38,6 @@
        * [Let’s build some apps with Polymer!(Rob Dodson) - 1503150415](Conference/009-Chrome-Dev-Summit-2014/1503150415-lets-build-some-apps-with-polymerrob-dodson.md)
        * [Day One Closing Remarks(Sundar Pichai) - 1503150417](Conference/009-Chrome-Dev-Summit-2014/1503150417-day-one-closing-remarkssundar-pichai.md)
        * [Chrome Leadership panel - 1503160422](Conference/009-Chrome-Dev-Summit-2014/1503160422-chrome-leadership-panel.md)
-       * Fundamentals of Mobile Web Development(Matt Gaunt) - 1503150416
+       * [Fundamentals of Mobile Web Development(Matt Gaunt) - 1503150416](Conference/009-Chrome-Dev-Summit-2014/1503150416-fundamentals-of-mobile-web-developmentmatt-gaunt.md)
 * [开源开放技术](Opensource/index.md)
 
