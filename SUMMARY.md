@@ -139,7 +139,7 @@
        * [OpenInChrome on iOS, Part 3 - 1501120025](GoogleApps/078-Route-85/1501120025-openinchrome-on-ios-part-3.md)
        * [OpenInChrome on iOS, Part 4 - 1501120026](GoogleApps/078-Route-85/1501120026-openinchrome-on-ios-part-4.md)
    * [DevBytes 2014 - 019](GoogleApps/019-Devbytes-2014/index.md)
-       * Web Components - Template - 1505040789
+       * [Web Components - Template - 1505040789](GoogleApps/019-Devbytes-2014/1505040789-web-components-template.md)
 * [Google 广告平台](Ads/index.md)
 * [Polymer](Polymer/index.md)
 * [Web 平台](Web/index.md)
