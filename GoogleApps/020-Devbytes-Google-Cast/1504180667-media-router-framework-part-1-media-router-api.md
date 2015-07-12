@@ -1,7 +1,7 @@
 ## DevBytes: Media Router Framework - Part 1 - Media Router API
 
 ![video_screenshot](images/_NGB10uN6OI.jpg)
-
+![](_NGB10uN6OI.jpg)
 ** 视频发布时间**
  
 > 2014年2月18日
