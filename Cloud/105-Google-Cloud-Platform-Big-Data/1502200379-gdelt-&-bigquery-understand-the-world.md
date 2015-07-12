@@ -1,6 +1,6 @@
 ## GDELT & BigQuery: Understand the world
 
-![video_screenshot](images/lboyR-A1woU.jpg)
+![video_screenshot](images/Psp7YivWL90.jpg)
 
 ** 视频发布时间**
  
