@@ -1,6 +1,6 @@
 ## Lightning Talk: 3 Game Design Mistakes You're Making
 
-![video_screenshot](images/lboyR-A1woU.jpg)
+![video_screenshot](images/THn4f6zAuJ4.jpg)
 
 ** 视频发布时间**
  
