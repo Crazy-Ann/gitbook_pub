@@ -9,7 +9,7 @@
 
 ** 视频介绍**
 
-> When talking about Cloud Offerings, it's easy to forget the data-centers that make it all happen. In this video, Colt McAnlis takes a quick look at maintaining Google's scale through it's data-centers, and how developers can leverage the same hardware and software running google's services to write their own applications.Make sure to join the Google Cloud Platform Community to connect with other developers. 
+> When talking about Cloud Offerings, it's easy to forget the data-centers that make it all happen. In this video, Colt McAnlis takes a quick look at maintaining Google's scale through it's data-centers, and how developers can leverage the same hardware and software running google's services to write their own applications.Make sure to join the Google Cloud Platform Community to connect with other developers.
 
 ** 视频推介语 **
 
@@ -20,7 +20,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| xin.zhang | 段威 | —— | [ Youtube ]( https://www.youtube.com/watch?v=CJbmJ1W5wys )  |  [ Youtube ]( https://www.youtube.com/watch?v=Fj9C8KrWUyQ )   |   Youtube | 1504210678 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| xin.zhang | 段威 | —— | [ Youtube ]( https://www.youtube.com/watch?v=CJbmJ1W5wys )  |  [ Youtube ]( https://www.youtube.com/watch?v=Fj9C8KrWUyQ ) | 1504210678 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
 
 
 
@@ -165,6 +165,11 @@ Google云服务的话
 我是Colt McAnlis
 
 去弄出点动静来吧
+
+
+
+
+
 
 
 
