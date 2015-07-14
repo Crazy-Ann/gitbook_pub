@@ -18,7 +18,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | ----|----|----|----|----|----|----|
-| 伍文其 | Wallace4ever | -- | [ Youtube ]( https://www.youtube.com/watch?v=6Dl6BdrA-sQ ) | [ Youtube ](https://www.youtube.com/watch?v=czwKDhAdtoA) | 1504010489 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator ) |
+| 伍文其 | Wallace4ever | -- | [ Youtube ]( https://www.youtube.com/watch?v=6VjF638VObA ) | [ Youtube ](https://www.youtube.com/watch?v=czwKDhAdtoA) | 1504010489 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator ) |
 
 
 ### 解说词中文版：
