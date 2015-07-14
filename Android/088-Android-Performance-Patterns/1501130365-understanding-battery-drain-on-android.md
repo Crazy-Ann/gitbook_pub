@@ -9,7 +9,7 @@
 
 ** 视频介绍**
 
-> As your mobile device is busy executing tasks, calculating how to split a bar tab, and uploading photos of your cat, the underlying hardware is effectively pulling energy from your battery to accomplish this work.And, as we’ve all seen, the more work your device does, the more battery it pulls, and the sooner your users are left holding on to an uncharged phone, that doubles as an expensive door stop.In this video Colt McAnlis discusses the keys to writing applications that are light on battery drain; which means understanding what’s going on under the hood.Watch more Android Performance Patterns here: http://goo.gl/3dBbse
+> As your mobile device is busy executing tasks, calculating how to split a bar tab, and uploading photos of your cat, the underlying hardware is effectively pulling energy from your battery to accomplish this work.And, as we’ve all seen, the more work your device does, the more battery it pulls, and the sooner your users are left holding on to an uncharged phone, that doubles as an expensive door stop.In this video Colt McAnlis discusses the keys to writing applications that are light on battery drain; which means understanding what’s going on under the hood.Watch more Android Performance Patterns here: https://goo.gl/3dBbse
 
 ** 视频推介语 **
 
