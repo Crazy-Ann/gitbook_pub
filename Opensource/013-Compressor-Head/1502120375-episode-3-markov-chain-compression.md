@@ -8,8 +8,7 @@
 
 ** 视频介绍**
 
-> Markov Chains Compression sits at the cutting edge of compression algorithms. These algorithms take an Artificial Intelligence approach to compression by allowing the encoder and decoder to 'predict' what data is coming next. In this episode Colt McAnlis talks about how these magical algorithms compress data, and why some think that they are the future of compression.Songs:Grooviges: Geemee - The First by Geemeehttp://geemee.bandcamp.com/track/elec...
-
+> Markov Chains Compression sits at the cutting edge of compression algorithms. These algorithms take an Artificial Intelligence approach to compression by allowing the encoder and decoder to 'predict' what data is coming next. In this episode Colt McAnlis talks about how these magical algorithms compress data, and why some think that they are the future of compression.
 ** 视频推介语 **
 
 >  暂无，待补充。
