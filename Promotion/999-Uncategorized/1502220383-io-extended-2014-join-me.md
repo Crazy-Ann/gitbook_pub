@@ -1,7 +1,7 @@
 
 ## I/O Extended 2014 - Join me
 
-![video_screenshot](images/lboyR-A1woU.jpg)
+![video_screenshot](images/A-bjrru5bLU.jpg)
 
 ** 视频发布时间**
  
