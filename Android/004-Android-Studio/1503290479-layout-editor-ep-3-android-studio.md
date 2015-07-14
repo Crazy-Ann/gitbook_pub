@@ -8,7 +8,7 @@
 
 ** 视频介绍**
 
-> The difference between a text editor and an IDE is all in the tools that support your development flow. Android Studio includes a rich, visual layout editor that helps developers create better user interfaces. It eliminates the need to deploy the APK on a real device with each change, making iterations faster and helping eliminate common errors earlier in the development process. In this video you will learn a few layout editing tips that every developer should know.Watch all Android Studio videos at: http://goo.gl/SUqTzcSubscribe to the Google Developers channel at: http://goo.gl/mQyv5L
+> The difference between a text editor and an IDE is all in the tools that support your development flow. Android Studio includes a rich, visual layout editor that helps developers create better user interfaces. It eliminates the need to deploy the APK on a real device with each change, making iterations faster and helping eliminate common errors earlier in the development process. In this video you will learn a few layout editing tips that every developer should know.Watch all Android Studio videos at: https://goo.gl/SUqTzcSubscribe to the Google Developers channel at: https://goo.gl/mQyv5L
 
 ** 视频推介语 **
 
