@@ -8,7 +8,7 @@
 
 ** 视频介绍**
 
-> By integrating with Google Search for Developers (https://developers.google.com/search) you can increase app installs, keep users coming back to your app through deep links in search results, and engage users in new ways with voice actions. To get started, get your app in the Google index https://www.youtube.com/watch?v=aISUY... and then delight your users with cool features such as voice search: https://www.youtube.com/watch?v=PS1Fb.... 
+> By integrating with Google Search for Developers (https://developers.google.com/search) you can increase app installs, keep users coming back to your app through deep links in search results, and engage users in new ways with voice actions.  
 
 ** 视频推介语 **
 
