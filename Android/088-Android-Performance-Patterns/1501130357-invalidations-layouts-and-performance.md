@@ -8,7 +8,7 @@
 
 ** 视频介绍**
 
-> Views are the backbone of your Android Activity, but have you ever really understood how much updating the visual properties of a view affects your performance? In order to hit the middle ground between performance and flexibility, Android’s UI Toolkit must execute a number of stages to prepare data before rendering it to the screen. So every time you change one of those views, this pipeline has to spin up, and start doing work again.In this video, +Colt McAnlis introduces the required stages of the rendering pipeline, and describes what actions in your application will trigger each of them to occur.Watch more Android Performance Patterns here: http://goo.gl/3dBbse
+> Views are the backbone of your Android Activity, but have you ever really understood how much updating the visual properties of a view affects your performance? In order to hit the middle ground between performance and flexibility, Android’s UI Toolkit must execute a number of stages to prepare data before rendering it to the screen. So every time you change one of those views, this pipeline has to spin up, and start doing work again.In this video, +Colt McAnlis introduces the required stages of the rendering pipeline, and describes what actions in your application will trigger each of them to occur.Watch more Android Performance Patterns here: https://goo.gl/3dBbse
 
 ** 视频推介语 **
 
