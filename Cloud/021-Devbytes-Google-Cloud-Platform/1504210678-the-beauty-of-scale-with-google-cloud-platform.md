@@ -20,7 +20,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| xin.zhang | 段威 | —— | [ Youtube ]( https://www.youtube.com/watch?v=CJbmJ1W5wys&index=10&list=PLOU2XLYxmsIIGo6tf3yFhif9VUSzxjYUT )  |   Youtube | 1504210678 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| xin.zhang | 段威 | —— | [ Youtube ]( https://www.youtube.com/watch?v=CJbmJ1W5wys )  |  [ Youtube ]( https://www.youtube.com/watch?v=Fj9C8KrWUyQ )   |   Youtube | 1504210678 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
 
 
 
