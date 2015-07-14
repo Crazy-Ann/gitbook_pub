@@ -9,7 +9,7 @@
 
 ** 视频介绍**
 
-> One of the most problematic performance problems on Android is the easiest to create; thankfully, it’s also easy to fix.OVERDRAW is a term used to describe how many times a pixel has been re-drawn in a single frame of rendering. It’s a troublesome issue, because in most cases, pixels that are overdrawn do not end up contributing to the final rendered image. As such, it amounts to wasted work for your GPU and CPU. Fixing overdraw has everything to do with using the available on-device tools, like Show GPU Overdraw, and then adjusting your view hierarchy in order to reduce areas where it may be occurring.In this video, +Colt McAnlis runs through the problem, takes a look at the tools, and talks about some great ways to solve this issue in your own application.Watch more Android Performance Patterns here: http://goo.gl/3dBbse
+> One of the most problematic performance problems on Android is the easiest to create; thankfully, it’s also easy to fix.OVERDRAW is a term used to describe how many times a pixel has been re-drawn in a single frame of rendering. It’s a troublesome issue, because in most cases, pixels that are overdrawn do not end up contributing to the final rendered image. As such, it amounts to wasted work for your GPU and CPU. Fixing overdraw has everything to do with using the available on-device tools, like Show GPU Overdraw, and then adjusting your view hierarchy in order to reduce areas where it may be occurring.In this video, +Colt McAnlis runs through the problem, takes a look at the tools, and talks about some great ways to solve this issue in your own application.Watch more Android Performance Patterns here: https://goo.gl/3dBbse
 
 ** 视频推介语 **
 
