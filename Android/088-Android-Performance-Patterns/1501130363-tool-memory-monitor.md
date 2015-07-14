@@ -8,7 +8,7 @@
 
 ** 视频介绍**
 
-> During the lifetime of your application, You can expect the amount of allocated memory to change quite frequently. For example, needing to allocate more bitmaps for your social media data;Or plotting a new jogging path that takes your user past a trendy donut shop. What’s tricky though, is seeing how these allocations, can impact your performance.In this video +Colt McAnlis, introduces a fancy tool in Android Studio, which lets you can get a better sense of how your application is using memory.Watch more Android Performance Patterns here: http://goo.gl/3dBbse
+> During the lifetime of your application, You can expect the amount of allocated memory to change quite frequently. For example, needing to allocate more bitmaps for your social media data;Or plotting a new jogging path that takes your user past a trendy donut shop. What’s tricky though, is seeing how these allocations, can impact your performance.In this video +Colt McAnlis, introduces a fancy tool in Android Studio, which lets you can get a better sense of how your application is using memory.Watch more Android Performance Patterns here: https://goo.gl/3dBbse
 
 ** 视频推介语 **
 
