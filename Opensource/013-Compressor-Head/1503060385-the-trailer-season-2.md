@@ -8,7 +8,7 @@
 
 ** 视频介绍**
 
-> Google Developer Advocate Colt McAnlis returns in season 2 of Compressor Head! Advancing his #perfmatters offensive, Colt continues to reveal the sources and practical uses of data compression technology.Compressor Head is the playful, and informative source of knowledge around algorithmic compression. Join Colt for fun, history, some banana jokes, and math!Watch more Compressor Head at g.co/compressorheadIn Season 1 Colt lead us through Variable Length Codes, The LZ77 Compression Family and Markov Chains. https://www.youtube.com/watch?v=Eb7rz...In Season 2 Colt will school you in The Burrows-Wheeler transform, Arithmetic Compression and Adaptive Statistical Encoding. You will enjoy it!
+> Google Developer Advocate Colt McAnlis returns in season 2 of Compressor Head! Advancing his #perfmatters offensive, Colt continues to reveal the sources and practical uses of data compression technology.Compressor Head is the playful, and informative source of knowledge around algorithmic compression. Join Colt for fun, history, some banana jokes, and math!
 
 ** 视频推介语 **
 
