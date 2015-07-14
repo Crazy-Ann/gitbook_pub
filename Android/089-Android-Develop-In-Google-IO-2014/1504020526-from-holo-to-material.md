@@ -18,7 +18,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | ----|----|----|----|----|----|----|
-| Galory | 任皓 | -- | [ Youtube ]( https://www.youtube.com/watch?v=QdINLG5QrJc ) | [ Youtube ](https://www.youtube.com/watch?v=z0GB0ikFPSo) | 1504020526 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator ) |
+| Galory | 任皓 | -- | [ Youtube ]( https://www.youtube.com/watch?v=x5-ntYM_2UY ) | [ Youtube ](https://www.youtube.com/watch?v=Ue7c0IAUVwI) | 1504020526 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator ) |
 
 
 ### 解说词中文版：
