@@ -1,7 +1,7 @@
 
 ## Snappy travels with the Roads API
 
-![video_screenshot](images/lboyR-A1woU.jpg)
+![video_screenshot](images/e5YDb-XnDVk.jpg)
 
 ** 视频发布时间**
  
