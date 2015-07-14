@@ -8,7 +8,7 @@
 
 ** 视频介绍**
 
-> Using the x-callback-url format. In part 2 of this screencast series, we show you how to use the x-callback-url standard within iOS to create a back button in Chrome that points back to your application.Route 85 Playlist here: http://www.youtube.com/playlist?list=...Subscribe to the Google Developers channel here: http://goo.gl/mQyv5L
+> Using the x-callback-url format. In part 2 of this screencast series, we show you how to use the x-callback-url standard within iOS to create a back button in Chrome that points back to your application.
 
 ** 视频推介语 **
 
