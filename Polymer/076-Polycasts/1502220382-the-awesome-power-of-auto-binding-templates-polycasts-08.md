@@ -9,7 +9,7 @@
 
 ** 视频介绍**
 
-> Super charge your app with Polymer data bindings.*** CLICK "SHOW MORE" FOR LINKS TO EVERYTHING ***Auto-binding template docshttps://www.polymer-project.org/0.5/d...Polycasts: Core Drawer Panelhttps://www.youtube.com/watch?v=GAjpa...Polycasts: Core Header Panelhttps://www.youtube.com/watch?v=ZAc51...Polycasts: Core Toolbarhttps://www.youtube.com/watch?v=qDhHd...Tag your tweets and posts with #polycasts and let us know what you want to see!
+> Super charge your app with Polymer data bindings.
 
 ** 视频推介语 **
 
