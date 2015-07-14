@@ -8,7 +8,7 @@
 
 ** 视频介绍**
 
-> In this series, Todd Kerpelman introduces Route 85. Route 85 is Google's series of tips and tricks for iOS developers. Get tips and tricks from Google Engineers on developing successful apps, and find out what services Google can provide to make your apps more powerful!Watch the playlist of Route 85 here: https://www.youtube.com/watch?v=7xZem...Subscribe to the Google Developers channel at: http://goo.gl/mQyv5L
+> In this series, Todd Kerpelman introduces Route 85. Route 85 is Google's series of tips and tricks for iOS developers. Get tips and tricks from Google Engineers on developing successful apps, and find out what services Google can provide to make your apps more powerful!
 
 ** 视频推介语 **
 
