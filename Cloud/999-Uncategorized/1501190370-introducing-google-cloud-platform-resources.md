@@ -1,7 +1,7 @@
 
 ## Introducing Google Cloud Platform Resources
 
-![video_screenshot](images/lboyR-A1woU.jpg)
+![video_screenshot](images/eMlwcZSt7vk.jpg)
 
 ** 视频发布时间**
  
