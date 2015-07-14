@@ -9,7 +9,7 @@
 
 ** 视频介绍**
 
-> More fun with x-callback-url. In part 4, the final part of our screencast series, we show you how to add extra features to your x-callback-url spec in your app so that you can detect when the user has returned to your application from Chrome on iOS.Route 85 Playlist here: http://www.youtube.com/playlist?list=... Google Apple Apple Apple AppleSubscribe to the Google Developers channel here: http://goo.gl/mQyv5L
+> More fun with x-callback-url. In part 4, the final part of our screencast series, we show you how to add extra features to your x-callback-url spec in your app so that you can detect when the user has returned to your application from Chrome on iOS.
 
 ** 视频推介语 **
 
