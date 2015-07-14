@@ -18,7 +18,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | ----|----|----|----|----|----|----|
-| 葛伟  | 高冰 | 暂无 | [ Youtube ]( https://www.youtube.com/watch?v=4hsa7uJFyx8 ) | Youtube | 1503040384 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator ) |
+| 葛伟  | 高冰 | 暂无 | [ Youtube ]( https://www.youtube.com/watch?v=4hsa7uJFyx8 )  |  [ Youtube ]( https://www.youtube.com/watch?v=2mGX2mORBhQ )  | Youtube | 1503040384 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator ) |
 
 ### 解说词中文版：
 
