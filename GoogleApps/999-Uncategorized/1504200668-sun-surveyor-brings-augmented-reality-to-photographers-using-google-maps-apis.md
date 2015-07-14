@@ -1,7 +1,7 @@
 
 ## Sun Surveyor brings augmented reality to photographers using Google Maps APIs
 
-![video_screenshot](images/lboyR-A1woU.jpg)
+![video_screenshot](images/88rG6FHEeUg.jpg)
 
 ** 视频发布时间**
  
