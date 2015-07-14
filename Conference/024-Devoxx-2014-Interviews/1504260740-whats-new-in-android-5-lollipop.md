@@ -8,7 +8,7 @@
 
 ** 视频介绍**
 
-> Chet (@chethaase, google.com/+ChetHaase) and Romain (@romainguy, google.com/+RomainGuygoogle.com/+RomainG­uy) discuss Material Design and other new developer features in Android 5.0 Lollipop.See more from Devoxx 2014: https://www.youtube.com/playlist?list...Recorded in November 2014 at #Devoxx Belgium.
+> Chet (@chethaase, google.com/+ChetHaase) and Romain (@romainguy, google.com/+RomainGuygoogle.com/+RomainG­uy) discuss Material Design and other new developer features in Android 5.0 Lollipop.
 
 ** 视频推介语 **
 
