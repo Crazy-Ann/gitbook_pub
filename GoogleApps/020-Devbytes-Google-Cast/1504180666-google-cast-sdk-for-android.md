@@ -9,7 +9,7 @@
 
 ** 视频介绍**
 
-> Learn how to cast content from Android apps to Google Cast receiver devices such as Chromecast. This video gives an introduction on how to build Google Cast sender applications for Android using the Google Cast SDK.Join the Google Cast Community on G+ at the following link to learn more and stay in touch with other Google Cast Developers.https://plus.google.com/communities/1...
+> Learn how to cast content from Android apps to Google Cast receiver devices such as Chromecast. This video gives an introduction on how to build Google Cast sender applications for Android using the Google Cast SDK.
 
 ** 视频推介语 **
 
@@ -20,7 +20,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| xin.zhang | 葛佳恒 | —— | [ Youtube ]( https://www.youtube.com/watch?v=qEeNwIoXkhM )  |  [ Youtube ]( https://www.youtube.com/watch?v=FPsNMyAPgjY&index=5&list=PLvivLNHqjoowK2IZ9j_NYIucUrGgdiDrT ) | 1504180666 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| xin.zhang | 葛佳恒 | —— | [ Youtube ]( https://www.youtube.com/watch?v=qEeNwIoXkhM )  |  [ Youtube ]( https://www.youtube.com/watch?v=k-RMmgbgxXc ) | 1504180666 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
 
 
 
