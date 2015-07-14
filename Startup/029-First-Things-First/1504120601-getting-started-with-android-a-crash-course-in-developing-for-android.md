@@ -8,7 +8,7 @@
 
 ** 视频介绍**
 
-> Preview the full Udacity course and get started building your Android app, or get the full course at https://www.udacity.com/course/ud853. Android Developer Studio resources are available at https://developer.android.com/sdk/ins....Join a Startup Battle event at http://www.globalstartupbattle.co/, or a Startup Weekend event at http://startupweekend.org/. View all Startup Launch resources at http://g.co/launch. For startup specific video content, subscribe to the Startup Launch YouTube channel here: http://goo.gl/vf6Ngg.
+> Preview the full Udacity course and get started building your Android app, or get the full course at https://www.udacity.com/course/ud853. Android Developer Studio resources are available at https://developer.android.com/sdk/installing/studio.html
 
 ** 视频推介语 **
 
