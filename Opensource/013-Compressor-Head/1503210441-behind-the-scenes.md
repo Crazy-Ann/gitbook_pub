@@ -8,7 +8,7 @@
 
 ** 视频介绍**
 
-> Compressor Head is the playful, and informative source of knowledge around algorithmic compression. Join Google Developer Advocate Colt McAnlis and Director Brian Grady behind the scenes and learn about the magic and mania that makes Compressor Head tick.For fun, history, jokes, and math - watch more Compressor Head at http://g.co/compressorhead In Season 1 Colt leads us through Variable Length Codes, The LZ77 Compression Family and Markov Chains. In Season 2 Colt schools you in The Burrows-Wheeler transform, Arithmetic Compression and Adaptive Statistical Encoding.Subscribe to the Google Developers channel here: http://goo.gl/mQyv5L
+> Compressor Head is the playful, and informative source of knowledge around algorithmic compression. Join Google Developer Advocate Colt McAnlis and Director Brian Grady behind the scenes and learn about the magic and mania that makes Compressor Head tick.
 
 ** 视频推介语 **
 
