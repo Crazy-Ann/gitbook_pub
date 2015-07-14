@@ -8,7 +8,7 @@
 
 ** 视频介绍**
 
->  Google Developers YouTube channel provides developers with the latest news and best practices for designing, developing and distributing your web and mobile applications. Take advantage of this resource by subscribing to http://youtube.com/googledevelopers. MTV
+>  Google Developers YouTube channel provides developers with the latest news and best practices for designing, developing and distributing your web and mobile applications. 
 
 ** 视频推介语 **
 
