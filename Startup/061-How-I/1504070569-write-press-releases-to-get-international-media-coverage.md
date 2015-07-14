@@ -8,7 +8,7 @@
 
 ** 视频介绍**
 
->  My Plus One and Airspruce founder and media professional Clare Freeman outlines how she writes a great press release, and uses media relationships, to get her startups international coverage in publications like The New York Times magazine and Condé Nast Traveler.http://airspruce.me...
+>  My Plus One and Airspruce founder and media professional Clare Freeman outlines how she writes a great press release, and uses media relationships, to get her startups international coverage in publications like The New York Times magazine and Condé Nast Traveler.
 
 ** 视频推介语 **
 
