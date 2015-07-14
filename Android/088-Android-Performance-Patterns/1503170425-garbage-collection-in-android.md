@@ -8,7 +8,7 @@
 
 ** 视频介绍**
 
-> One of the tricks to the Java Language being an efficient language has to do with it’s Managed Memory model, which will kick off “Garbage Collection” events to clean up memory on your app’s behalf. While beneficial, these events can be challenging from a performance perspective.In this video +Colt McAnlis introduces the topic of Garbage Collection, how it works, and what you need to do to fix it.Watch more Android Performance Patterns here: http://goo.gl/3dBbse
+> One of the tricks to the Java Language being an efficient language has to do with it’s Managed Memory model, which will kick off “Garbage Collection” events to clean up memory on your app’s behalf. While beneficial, these events can be challenging from a performance perspective.In this video +Colt McAnlis introduces the topic of Garbage Collection, how it works, and what you need to do to fix it.
 
 ** 视频推介语 **
 
