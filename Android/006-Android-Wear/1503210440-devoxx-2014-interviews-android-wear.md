@@ -9,7 +9,7 @@
 
 ** 视频介绍**
 
-> Google Developer Expert Cyril Mottier (@cyrilmottier, cyrilmottier.com) discusses how to think about Android Wear as a new platform, what the challenges are and what his experience has been building and shipping his first Wear application (CapitaineTrain.com).See more from Devoxx 2014: https://www.youtube.com/playlist?list...
+> Google Developer Expert Cyril Mottier (@cyrilmottier, cyrilmottier.com) discusses how to think about Android Wear as a new platform, what the challenges are and what his experience has been building and shipping his first Wear application (CapitaineTrain.com).See more from Devoxx 2014: https://www.youtube.com/playlist?list=PLOU2XLYxmsIJaacrFiQbQGGrPXIWvj1Wr
 
 ** 视频推介语 **
 
