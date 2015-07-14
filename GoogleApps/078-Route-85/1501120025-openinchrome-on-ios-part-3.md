@@ -8,7 +8,7 @@
 
 ** 视频介绍**
 
-> Detecting old versions of Chrome. In part 3 of this series, we show you how to detect if the version of Chrome installed on the user's iOS device can support the x-callback-url format. And then we use the OpenInChrome open source class to make your life easier.Route 85 Playlist here: http://www.youtube.com/playlist?list=...Subscribe to the Google Developers channel here: http://goo.gl/mQyv5L
+> Detecting old versions of Chrome. In part 3 of this series, we show you how to detect if the version of Chrome installed on the user's iOS device can support the x-callback-url format. And then we use the OpenInChrome open source class to make your life easier.
 
 ** 视频推介语 **
 
