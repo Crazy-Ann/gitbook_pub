@@ -9,7 +9,7 @@
 
 ** 视频介绍**
 
-> When talking about Cloud Offerings, it's easy to forget the data-centers that make it all happen. In this video, Colt McAnlis takes a quick look at maintaining Google's scale through it's data-centers, and how developers can leverage the same hardware and software running google's services to write their own applications.Make sure to join the Google Cloud Platform Community to connect with other developers. http://g.co/clouddevscommunityFor more information on the Google Cloud Platform please visit http://g.co/cloudplatformbytes
+> When talking about Cloud Offerings, it's easy to forget the data-centers that make it all happen. In this video, Colt McAnlis takes a quick look at maintaining Google's scale through it's data-centers, and how developers can leverage the same hardware and software running google's services to write their own applications.Make sure to join the Google Cloud Platform Community to connect with other developers. 
 
 ** 视频推介语 **
 
