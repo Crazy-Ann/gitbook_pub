@@ -21,7 +21,7 @@ Android 性能优化专题关注 Android 上常见的性能优化方面的知识
 | 1501130356 | [Android Performance Patterns: Android UI and the GPU](/Android/088-Android-Performance-Patterns/1501130356-android-ui-and-the-gpu.html)  | 周亿 | 姜昭宇 | —— |
 | 1501130357 | [Android Performance Patterns: Invalidations, Layouts, and Performance](/Android/088-Android-Performance-Patterns/1501130357-invalidations-layouts-and-performance.html)  | 周亿 | 姜昭宇、Kesen | —— |
 | 1501130358 | [Android Performance Patterns: Overdraw, Cliprect, QuickReject](/Android/088-Android-Performance-Patterns/1501130358-overdraw-cliprect-quickreject.html)  | 周亿 | 姜昭宇、Kesen | —— || 1501130359 | [Android Performance Patterns: Memory Churn and performance](/Android/088-Android-Performance-Patterns/1501130359-memory-churn-and-performance.html)  | -- | -- | —— |
-| 1501130352 | [Android Performance Patterns: Understanding Overdraw](/Android/088-Android-Performance-Patterns/1501130352-understanding-overdraw.html)  | 程路 | 程路 | —— |
+| 1501130360 | [Android Performance Patterns: Garbage Collection in Android](//Android/088-Android-Performance-Patterns/1501130360-garbage-collection-in-android.html)  | -- | -- | —— |
 
 [查看该项目所有视频（YouTube）](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKEOXh5TwZEv89aofHzNCiu)
 
