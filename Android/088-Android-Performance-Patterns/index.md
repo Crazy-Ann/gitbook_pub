@@ -12,7 +12,7 @@ Android 性能优化专题关注 Android 上常见的性能优化方面的知识
 | 翻译流水号 | 视频名称 | 翻译 | 润稿 | 终审 |
 | -- | -- | -- | -- | -- |
 | 1503170425 | [Android Performance Patterns: Garbage Collection in Android](/Android/088-Android-Performance-Patterns/1503170425-garbage-collection-in-android.html)  | 贺颂 | 高冰 | —— |
-| 1504030546 | [Game On! - Pie Noon](/Android/031-Game-On/1503060393-pie-noon.html)  | 韩淼 | 素年待锦 | —— |
+| 1503170424 | [Android Performance Patterns: Performance Cost of Memory Leaks](/Android/088-Android-Performance-Patterns/1503170424-performance-cost-of-memory-leaks.html)  | 韩淼 | 素年待锦 | —— |
 | 1504030546 | [Game On! - Pie Noon](/Android/031-Game-On/1503060393-pie-noon.html)  | 韩淼 | 素年待锦 | —— |
 | 1504030546 | [Game On! - Pie Noon](/Android/031-Game-On/1503060393-pie-noon.html)  | 韩淼 | 素年待锦 | —— |
 
