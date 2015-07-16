@@ -16,7 +16,7 @@ Android 性能优化专题关注 Android 上常见的性能优化方面的知识
 | 1501130351 | [Android Performance Patterns: Rendering Performance 101](/Android/088-Android-Performance-Patterns/1501130351-rendering-performance-101.html)  | 周亿 | 姜昭宇 | —— |
 | 1501130352 | [Android Performance Patterns: Understanding Overdraw](/Android/088-Android-Performance-Patterns/1501130352-understanding-overdraw.html)  | 程路 | 程路 | —— |
 | 1501130353 | [Android Performance Patterns: Understanding VSYNC](/Android/088-Android-Performance-Patterns/1501130353-understanding-vsync.html)  | 高洁 | 高洁、Kesen | —— |
-| 1501130352 | [Android Performance Patterns: Understanding Overdraw](/Android/088-Android-Performance-Patterns/1501130352-understanding-overdraw.html)  | 程路 | 程路 | —— |
+| 1501130354 | [Android Performance Patterns: Tool - Profile GPU Rendering](/Android/088-Android-Performance-Patterns/1501130354-tool-profile-gpu-rendering.html)  | 周亿 | 姜昭宇、Kesen | —— |
 | 1501130352 | [Android Performance Patterns: Understanding Overdraw](/Android/088-Android-Performance-Patterns/1501130352-understanding-overdraw.html)  | 程路 | 程路 | —— |
 | 1501130352 | [Android Performance Patterns: Understanding Overdraw](/Android/088-Android-Performance-Patterns/1501130352-understanding-overdraw.html)  | 程路 | 程路 | —— |
 | 1501130352 | [Android Performance Patterns: Understanding Overdraw](/Android/088-Android-Performance-Patterns/1501130352-understanding-overdraw.html)  | 程路 | 程路 | —— |
