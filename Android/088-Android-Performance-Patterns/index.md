@@ -19,7 +19,7 @@ Android 性能优化专题关注 Android 上常见的性能优化方面的知识
 | 1501130354 | [Android Performance Patterns: Tool - Profile GPU Rendering](/Android/088-Android-Performance-Patterns/1501130354-tool-profile-gpu-rendering.html)  | 周亿 | 姜昭宇、Kesen | —— |
 | 1501130355 | [Android Performance Patterns: Why 60fps?](/Android/088-Android-Performance-Patterns/1501130355-why-60fps.html)  | 姜昭宇 | 姜昭宇 | —— |
 | 1501130356 | [Android Performance Patterns: Android UI and the GPU](/Android/088-Android-Performance-Patterns/1501130356-android-ui-and-the-gpu.html)  | 周亿 | 姜昭宇 | —— |
-| 1501130352 | [Android Performance Patterns: Understanding Overdraw](/Android/088-Android-Performance-Patterns/1501130352-understanding-overdraw.html)  | 程路 | 程路 | —— |
+| 1501130357 | [Android Performance Patterns: Invalidations, Layouts, and Performance](/Android/088-Android-Performance-Patterns/1501130357-invalidations-layouts-and-performance.html)  | 周亿 | 姜昭宇、Kesen | —— |
 | 1501130352 | [Android Performance Patterns: Understanding Overdraw](/Android/088-Android-Performance-Patterns/1501130352-understanding-overdraw.html)  | 程路 | 程路 | —— || 1501130352 | [Android Performance Patterns: Understanding Overdraw](/Android/088-Android-Performance-Patterns/1501130352-understanding-overdraw.html)  | 程路 | 程路 | —— |
 | 1501130352 | [Android Performance Patterns: Understanding Overdraw](/Android/088-Android-Performance-Patterns/1501130352-understanding-overdraw.html)  | 程路 | 程路 | —— |
 
