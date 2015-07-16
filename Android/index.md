@@ -11,7 +11,7 @@ GDS 频道中将近半数的内容是关于 Android 开发的，其涵盖了 And
 |  089 | I/O 2014 Android 开发专题 | [Link](http://pub.gfansub.com/Android/089-Android-Develop-In-Google-IO-2014/index.html) | [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIEPtRoKDnsqQdF3JZxFVWF) |
 |  004 | Android Studio | [Link](http://pub.gfansub.com/Android/004-Android-Studio/index.html) | [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsILBTFkx5Fj_0TpUFKyZ1i7d) |
 |  091 | Android Distribute in Google I/O 2014 | [Link](http://pub.gfansub.com/Android/091-Android-Distribute-In-Google-IO-2014/index.html) | [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ-gNrXG-_BOKCjKjhHWVwK) |
-|  003 | Android Auto | [Link](http://pub.gfansub.com/Android/031-Game-On/index.html) | [YouTube](http://) |
+|  003 | Android Auto | [Link](http://pub.gfansub.com/Android/003-Android-Auto/index.html) | [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJthvMzPc1ABsPzm3ii2Vm9) |
 |  006 | Android Wear | [Link](http://pub.gfansub.com/Android/031-Game-On/index.html) | [YouTube](http://) |
 |  005 | Android TV | [Link](http://pub.gfansub.com/Android/031-Game-On/index.html) | [YouTube](http://) |
 |  106 | Android for Work | [Link](http://pub.gfansub.com/Android/031-Game-On/index.html) | [YouTube](http://) |
