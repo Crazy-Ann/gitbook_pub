@@ -1,0 +1,17 @@
+# Android 性能优化
+
+Android 性能优化专题关注 Android 上常见的性能优化方面的知识。
+
+讲师列表：
+
+*   [Colt McAnlis](https://plus.google.com/+ColtMcAnlis)
+ 
+视频列表：
+
+| 翻译流水号 | 视频名称 | 翻译 | 润稿 | 终审 |
+| -- | -- | -- | -- | -- |
+| 1504030546 | [Game On! - Pie Noon](/Android/031-Game-On/1503060393-pie-noon.html)  | 韩淼 | 素年待锦 | —— |
+
+[查看该项目所有视频（YouTube）](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKEOXh5TwZEv89aofHzNCiu)
+
+查看更多关于 [Android 平台的视频（字幕组）](/Android/index.html)
