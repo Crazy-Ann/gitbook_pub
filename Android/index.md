@@ -14,5 +14,5 @@ GDS 频道中将近半数的内容是关于 Android 开发的，其涵盖了 And
 |  003 | Android Auto | [Link](http://pub.gfansub.com/Android/003-Android-Auto/index.html) | [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJthvMzPc1ABsPzm3ii2Vm9) |
 |  006 | Android Wear | [Link](http://pub.gfansub.com/Android/006-Android-Wear/index.html) | [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJu9yzFxRDR1AUmrEu0lRMw) |
 |  005 | Android TV | [Link](http://pub.gfansub.com/Android/005-Android-TV/index.html) | [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsILFBfx66ens76VMLMEPJAB0) |
-|  106 | Android for Work | [Link](http://pub.gfansub.com/Android/031-Game-On/index.html) | [YouTube](http://) |
+|  106 | Android for Work | [Link](http://pub.gfansub.com/Android/106-Android-For-Work/index.html) | [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKAK2Bhv19H2THwF-22O5WX) |
 |  066 | IO Bytes 2014 - Android | [Link](http://pub.gfansub.com/Android/031-Game-On/index.html) | [YouTube](http://) |
