@@ -14,7 +14,7 @@ Android 性能优化专题关注 Android 上常见的性能优化方面的知识
 | 1503170425 | [Android Performance Patterns: Garbage Collection in Android](/Android/088-Android-Performance-Patterns/1503170425-garbage-collection-in-android.html)  | 贺颂 | 高冰 | —— |
 | 1503170424 | [Android Performance Patterns: Performance Cost of Memory Leaks](/Android/088-Android-Performance-Patterns/1503170424-performance-cost-of-memory-leaks.html)  | 高冰 | TWL007 | —— |
 | 1501130351 | [Android Performance Patterns: Rendering Performance 101](/Android/088-Android-Performance-Patterns/1501130351-rendering-performance-101.html)  | 周亿 | 姜昭宇 | —— |
-| 1504030546 | [Game On! - Pie Noon](/Android/031-Game-On/1503060393-pie-noon.html)  | 韩淼 | 素年待锦 | —— |
+| 1501130352 | [Android Performance Patterns: Understanding Overdraw](/Android/088-Android-Performance-Patterns/1501130352-understanding-overdraw.html)  | 程路 | 程路 | —— |
 
 [查看该项目所有视频（YouTube）](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKEOXh5TwZEv89aofHzNCiu)
 
