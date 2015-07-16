@@ -14,4 +14,4 @@
 |  070 | IO Bytes 2014 - Wearables  | [Link](http://pub.gfansub.com/GoogleApps/070-IO-Bytes-2014-Wearables/index.html) | [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJu9yzFxRDR1AUmrEu0lRMw) |
 |  078 | Route 85  | [Link](http://pub.gfansub.com/GoogleApps/078-Route-85/index.html) | [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGQekfmV0Qk52qLG5LU2jO) |
 |  019 | DevBytes 2014  | [Link](http://pub.gfansub.com/GoogleApps/019-Devbytes-2014/index.html) | [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJJHY5OrsREtKewtBhc0Uy2) |
-|  017 | DesignBytes  | [Link](http://pub.gfansub.com/Design/017-Designbytes/index.html) | [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJFcNKpAV9B_aQmz2h68fw_) |
+|  999 | 未分类/uncategorized  | [Link](http://pub.gfansub.com/GoogleApps/999-Uncategorized/index.html) | [YouTube](https:_) |
