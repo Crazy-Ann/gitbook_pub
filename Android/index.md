@@ -10,7 +10,7 @@ GDS 频道中将近半数的内容是关于 Android 开发的，其涵盖了 And
 |  088 | Android 性能优化 | [Link](http://pub.gfansub.com/Android/031-Game-On/index.html) | [YouTube](http:/https://www.youtube.com/playlist?list=PLOU2XLYxmsIKEOXh5TwZEv89aofHzNCiu/) |
 |  089 | I/O 2014 Android 开发专题 | [Link](http://pub.gfansub.com/Android/031-Game-On/index.html) | [YouTube](http://) |
 |  004 | Android Studio | [Link](http://pub.gfansub.com/Android/031-Game-On/index.html) | [YouTube](http://) |
-|  031 | Game On! 游戏开发系列 | [Link](http://pub.gfansub.com/Android/031-Game-On/index.html) | [YouTube](http://) |
+|  091 | Android Distribute in Google I/O 2014 | [Link](http://pub.gfansub.com/Android/031-Game-On/index.html) | [YouTube](http://) |
 |  031 | Game On! 游戏开发系列 | [Link](http://pub.gfansub.com/Android/031-Game-On/index.html) | [YouTube](http://) |
 |  031 | Game On! 游戏开发系列 | [Link](http://pub.gfansub.com/Android/031-Game-On/index.html) | [YouTube](http://) |
 |  031 | Game On! 游戏开发系列 | [Link](http://pub.gfansub.com/Android/031-Game-On/index.html) | [YouTube](http://) |
