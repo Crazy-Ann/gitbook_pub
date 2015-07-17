@@ -1,4 +1,4 @@
-# Chrome 平台
+# IO Bytes 2014 - Chrome and Web
 
 Android 性能优化专题关注 Android 上常见的性能优化方面的知识。
 
