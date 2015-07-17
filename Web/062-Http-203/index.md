@@ -4,8 +4,8 @@ Android 性能优化专题关注 Android 上常见的性能优化方面的知识
 
 讲师列表：
 
-*   [Paul](https://plus.google.com/+Paul)
-*   [Jake](https://plus.google.com/+Jake)
+*   [Paul Lewis](https://plus.google.com/+PaulLewis)
+*   [Jake Archibald](https://plus.google.com/+JakeArchibald)
  
 视频列表：
 
