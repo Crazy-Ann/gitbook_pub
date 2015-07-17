@@ -5,7 +5,7 @@ Android 性能优化专题关注 Android 上常见的性能优化方面的知识
 讲师列表：
 
 *   [Ryan Schoen](https://plus.google.com/+RyanSchoen )
-*   [Chris Palmer](https://plus.google.com/+Romashah)
+*   [Chris Palmer](https://plus.google.com/+ChrisPalmer)
 
 视频列表：
 
