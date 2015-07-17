@@ -5,8 +5,6 @@ Android 性能优化专题关注 Android 上常见的性能优化方面的知识
 讲师列表：
 
 *   [Femi Taiwo](https://plus.google.com/+FemiTaiwo)
-*   [Federico Pistono](https://plus.google.com/+FedericoPistono)
-*   [Donna Griffit](https://plus.google.com/+DonnaGriffit)
  
 视频列表：
 
