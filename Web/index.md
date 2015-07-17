@@ -6,6 +6,6 @@ GDS 频道中将近半数的内容是关于 Android 开发的，其涵盖了 And
 
 | 项目编号（内部） | 项目名称 | 字幕组链接 | Youtube 链接  |
 | ---- | ---- | ---- | ---- |
-|  062 | HTTP 203  | [Link](/Web/062-Http-203/index.html) | [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e) |
-|  081 | Web Components  | [Link](/Web/081-Web-Components/index.html) | [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJkA_W95NDrjdkk3dR6Jq4w) |
+|  062 | HTTP 203  | [Link](http://pub.gfansub.com//Web/062-Http-203/index.html) | [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e) |
+|  081 | Web Components  | [Link](http://pub.gfansub.com//Web/081-Web-Components/index.html) | [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJkA_W95NDrjdkk3dR6Jq4w) |
 
