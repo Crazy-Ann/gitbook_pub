@@ -6,6 +6,6 @@ GDS 频道中将近半数的内容是关于 Android 开发的，其涵盖了 And
 
 | 项目编号（内部） | 项目名称 | 字幕组链接 | Youtube 链接  |
 | ---- | ---- | ---- | ---- |
-|  999 | Uncategorized  | [Link](/Promotion/999-Uncategorized/index.html) | [YouTube](https) |
+|  999 | Uncategorized  | [Link](http://pub.gfansub.com//Promotion/999-Uncategorized/index.html) | [YouTube](https) |
 
 
