@@ -5,9 +5,8 @@ Android 性能优化专题关注 Android 上常见的性能优化方面的知识
 讲师列表：
 
 *   [Ryan Schoen](https://plus.google.com/+RyanSchoen )
-*   [Roma shah](https://plus.google.com/+Romashah)
-*   [Paul Lewis](https://plus.google.com/+PaulLewis)
- 
+*   [Chris Palmer](https://plus.google.com/+Romashah)
+
 视频列表：
 
 | 翻译流水号 | 视频名称 | 翻译 | 润稿 | 终审 |
