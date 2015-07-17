@@ -4,7 +4,6 @@ Android 性能优化专题关注 Android 上常见的性能优化方面的知识
 
 讲师列表：
 
-*   [Fabian Tamp](https://plus.google.com/+FabianTamp)
 *   [Timothy Jordan](https://plus.google.com/+TimothyJordan)
 
  
