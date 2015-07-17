@@ -5,7 +5,6 @@ Android 性能优化专题关注 Android 上常见的性能优化方面的知识
 讲师列表：
 
 *   [Colt McAnlis](https://plus.google.com/+ColtMcAnlis )
-*   [Rouslan Solomakhin](https://plus.google.com/+RouslanSolomakhin)
 *   [Jason Kinner](https://plus.google.com/+JasonKinner)
  
 视频列表：
