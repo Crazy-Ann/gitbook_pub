@@ -6,7 +6,7 @@ GDS 频道中将近半数的内容是关于 Android 开发的，其涵盖了 And
 
 | 项目编号（内部） | 项目名称 | 字幕组链接 | Youtube 链接  |
 | ---- | ---- | ---- | ---- |
-|  021 | DevBytes: Google Cloud Platform  | [Link](/Cloud/021-Devbytes-Google-Cloud-Platform/index.html) | [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsILr4jbLsRec0SIVZOUk9hn0) |
-|  105 | Google Cloud Platform - Big Data  | [Link](/Cloud/105-Google-Cloud-Platform-Big-Data/index.html) | [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKk5-eHOvuTwJvMkbV1DyUW) |
-|  999 | Uncategorized | [Link](/Cloud/999-Uncategorized/index.html) | [YouTube](https://) |
+|  021 | DevBytes: Google Cloud Platform  | [Link](http://pub.gfansub.com//Cloud/021-Devbytes-Google-Cloud-Platform/index.html) | [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsILr4jbLsRec0SIVZOUk9hn0) |
+|  105 | Google Cloud Platform - Big Data  | [Link](http://pub.gfansub.com//Cloud/105-Google-Cloud-Platform-Big-Data/index.html) | [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKk5-eHOvuTwJvMkbV1DyUW) |
+|  999 | Uncategorized | [Link](http://pub.gfansub.com//Cloud/999-Uncategorized/index.html) | [YouTube](https://) |
 
