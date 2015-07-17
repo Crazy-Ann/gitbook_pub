@@ -10,11 +10,11 @@ Android 性能优化专题关注 Android 上常见的性能优化方面的知识
 
 | 翻译流水号 | 视频名称 | 翻译 | 润稿 | 终审 |
 | -- | -- | -- | -- | -- |
-| 1503060393 | [Game On! - Pie Noon](http://pub.gfansub.com/Android/031-Game-On/1503060393-pie-noon.html)  | 葛佳- | 贺颂 | —— |
+| 1503060393 | [Game On! - Pie Noon](http://pub.gfansub.com/Android/031-Game-On/1503060393-pie-noon.html)  | 葛佳恒 | 贺颂 | —— |
 | 1504030543 | [Game On! - The Death of Base Game Activity](http://pub.gfansub.com/Android/031-Game-On/1504030543-the-death-of-base-game-activity.html)  | 贺颂 | 段威 | —— |
-| 1504030546 | [Game On! - Surviving OpenGL Context Loss](pub.gfansub.com//Android/031-Game-On/1504030546-surviving-opengl-context-loss.html)  | 韩- | 素年待锦 | —— |
-| 1504030547 | [Game On! - WebP for Game Devs](http://pub.gfansub.com//Android/031-Game-On/1504030547-webp-for-game-devs.html)  | eternity | 段威 | —— |
-| 1504070556 | [GameOn! - Saved Games In-Depth (Part 1)](/Android/031-Game-On/1504070556-saved-games-in-depth-part_1.html)  | brite | 素年待- | —— |
+| 1504030546 | [Game On! - Surviving OpenGL Context Loss](http://pub.gfansub.com//Android/031-Game-On/1504030546-surviving-opengl-context-loss.html)  | 韩淼 | 素年待锦 | —— |
+| 1504030547 | [Game On! - WebP for Game Devs](http://pub.gfansub.com/Android/031-Game-On/1504030547-webp-for-game-devs.html)  | eternity | 段威 | —— |
+| 1504070556 | [GameOn! - Saved Games In-Depth (Part 1)](http://pub.gfansub.com/Android/031-Game-On/1504070556-saved-games-in-depth-part_1.html)  | brite | 素年待锦 | —— |
 | 1504030548 | [GameOn! - Saved Games In-Depth (Part 2)](http://pub.gfansub.com//Android/031-Game-On/1504030548-saved-games-in-depth-part_2.html)  | wang7x | 苏楚霖 | 程路 |
 | 1504030544 | [Game On! - Smaller Flipbook Textures with CRABBY](http://pub.gfansub.com//Android/031-Game-On/1504030544-smaller-flipbook-textures-with-crabby.html)  | 高冰 | 韩晓健 | 程路 |
 | 1504030545 | [Game On! - Google Tag Manager](http://pub.gfansub.com//Android/031-Game-On/1504030545-google-tag-manager.html)  | 苏楚霖 | 虞高 | 程路 |
