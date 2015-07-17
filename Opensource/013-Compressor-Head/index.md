@@ -21,7 +21,7 @@ Android 性能优化专题关注 Android 上常见的性能优化方面的知识
 
 [查看该项目所有视频（YouTube）](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJGErt5rrCqaSGTMyyqNt2H)
 
-查看更多关于 [Google 应用开发的视频（字幕组）](http://pub.gfansub.com/GoogleApps/index.html)
+查看更多关于 [开源开放技术的视频（字幕组）](http://pub.gfansub.com/Opensource/index.html)
 
 
 
