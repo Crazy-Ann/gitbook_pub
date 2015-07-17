@@ -4,7 +4,7 @@ Android 性能优化专题关注 Android 上常见的性能优化方面的知识
 
 讲师列表：
 
-*   [Sharif Salah](https://plus.google.com/+SharifSalah)
+*   [Rob Dodson](https://plus.google.com/+RobDodson)
  
 视频列表：
 
