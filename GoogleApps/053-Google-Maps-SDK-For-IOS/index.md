@@ -5,7 +5,7 @@ Android 性能优化专题关注 Android 上常见的性能优化方面的知识
 讲师列表：
 
 *   [Daniel Schramm](https://plus.google.com/+DanielSchramm)
-*   [Chris Broadfoot](https://plus.google.com/+ChrisBroadfoot)
+
  
 视频列表：
 
