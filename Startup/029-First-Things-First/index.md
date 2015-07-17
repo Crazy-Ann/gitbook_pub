@@ -5,7 +5,6 @@ Android 性能优化专题关注 Android 上常见的性能优化方面的知识
 讲师列表：
 
 *   [David Katz](https://plus.google.com/+DavidKatz)
-*   [Amy Jo Kim](https://plus.google.com/+AmyJoKim)
 *   [LeanresearchCo](https://plus.google.com/+LeanresearchCo)
  
 视频列表：
