@@ -21,10 +21,6 @@ Android 性能优化专题关注 Android 上常见的性能优化方面的知识
 | 1501130356 | [Android Performance Patterns: Android UI and the GPU](https://pub.gfansub.com/Android/088-Android-Performance-Patterns/1501130356-android-ui-and-the-gpu.html)  | 周亿 | 姜昭宇 | —— |
 | 1501130357 | [Android Performance Patterns: Invalidations, Layouts, and Performance](https://pub.gfansub.com/Android/088-Android-Performance-Patterns/1501130357-invalidations-layouts-and-performance.html)  | 周亿 | 姜昭宇、Kesen | —— |
 | 1501130358 | [Android Performance Patterns: Overdraw, Cliprect, QuickReject](https://pub.gfansub.com/Android/088-Android-Performance-Patterns/1501130358-overdraw-cliprect-quickreject.html)  | 周亿 | 姜昭宇、Kesen | —— |
-| 1501130359 | [Android Performance Patterns: Memory Churn and performance](https://pub.gfansub.com/Android/088-Android-Performance-Patterns/1501130359-memory-churn-and-performance.html)  | -- | -- | —— |
-| 1501130360 | [Android Performance Patterns: Garbage Collection in Android](https://pub.gfansub.com/Android/088-Android-Performance-Patterns/1501130360-garbage-collection-in-android.html)  | -- | -- | —— |
-| 1501130361 | [Android Performance Patterns: Performance Cost of Memory Leaks](https://pub.gfansub.com/Android/088-Android-Performance-Patterns/1501130361-performance-cost-of-memory-leaks.html)  | -- | -- | —— |
-| 1501130362 | [Android Performance Patterns: Memory Performance 101](https://pub.gfansub.com/088-Android-Performance-Patterns/1501130362-memory-performance-101.html)  | -- | -- | —— |
 | 1501130363 | [Android Performance Patterns: Tool - Memory Monitor](https://pub.gfansub.com/Android/088-Android-Performance-Patterns/1501130363-tool-memory-monitor.html)  | 周亿 | 姜昭宇 | —— |
 | 1501130364 | [Android Performance Patterns: Battery Performance 101](https://pub.gfansub.com/Android/088-Android-Performance-Patterns/1501130364-battery-performance-101.html)  | 周亿 | 姜昭宇、Kesen | —— |
 | 1501130365 | [Android Performance Patterns: Understanding Battery Drain on Android](https://pub.gfansub.com/Android/088-Android-Performance-Patterns/1501130365-understanding-battery-drain-on-android.html)  | 程路 | 程路、Kesen | —— |
