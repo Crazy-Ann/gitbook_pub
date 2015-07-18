@@ -27,7 +27,6 @@
        * [Android UI and the GPU - 1501130356](Android/088-Android-Performance-Patterns/1501130356-android-ui-and-the-gpu.md)
        * [Invalidations, Layouts, and Performance - 1501130357](Android/088-Android-Performance-Patterns/1501130357-invalidations-layouts-and-performance.md)
        * [Overdraw, Cliprect, QuickReject - 1501130358](Android/088-Android-Performance-Patterns/1501130358-overdraw-cliprect-quickreject.md)
-       * [Memory Churn and performance - 1501130359](Android/088-Android-Performance-Patterns/1501130359-memory-churn-and-performance.md)
        * [Garbage Collection in Android - 1501130360](Android/088-Android-Performance-Patterns/1501130360-garbage-collection-in-android.md)
        * [Performance Cost of Memory Leaks - 1501130361](Android/088-Android-Performance-Patterns/1501130361-performance-cost-of-memory-leaks.md)
        * [Memory Performance 101 - 1501130362](Android/088-Android-Performance-Patterns/1501130362-memory-performance-101.md)
