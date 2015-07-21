@@ -1,4 +1,4 @@
-`# Google Search for Developers
+# Google Search for Developers
 
 Android 性能优化专题关注 Android 上常见的性能优化方面的知识。
 
