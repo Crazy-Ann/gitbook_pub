@@ -10,8 +10,8 @@
 
 | 翻译流水号 | 视频名称 | 翻译 | 润稿 | 终审 |
 | -- | -- | -- | -- | -- |
-| 1501140368 | [HTTP 203: Gotchas](062-Http-203/1501140368-gotchas.md)  | 卢治泷 | 田源 | —— |
-| 1501080016 | [HTTP 203 Font Rendering](062-Http-203/1501080016-font-rendering.md)  | 姜昭宇 | —— | —— |
+| 1501140368 | [HTTP 203: Gotchas](1501140368-gotchas.md)  | 卢治泷 | 田源 | —— |
+| 1501080016 | [HTTP 203 Font Rendering](1501080016-font-rendering.md)  | 姜昭宇 | —— | —— |
 
 [查看该项目所有视频（YouTube）](https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e)
 
