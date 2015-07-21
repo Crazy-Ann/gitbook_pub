@@ -22,7 +22,7 @@
 | 1504010493 | [Building impressive Android media experiences](1504010493-building-impressive-android-media-experiences.md)  | 任皓 | 田源 | 程路 |
 | 1504020497 | [The next Generation of Authentication](1504020497-the-next-generation-of-authentication.md)  | 田源 | 任皓 | 程路 |
 | 1504020523 | [Don't Alpha That Pixel!](1504020523-dont-alpha-that-pixel.md)  | 任皓 | 伍文其 | 程路 |
-| 1504020509 | [NFC + HCE Your phone in an interactive world](1504020509-nfc-hce-your-phone-in-an-interactive-world.md)  | 黄莘 | Wallace4ever | ——	|
+| 1504020509 | [NFC + HCE Your phone in an interactive world](1504020509-nfc-hce-your-phone-in-an-interactive-world.md)  | 黄莘 | Wallace4ever | —— |
 | 1504020521 | [Demystifying encodes and decodes of WebM](1504020521-demystifying-encodes-and-decodes-of-webm.md)  | Alice | Martin | —— |
 | 1504020524 | [Google Cloud Messaging](1504020524-google-cloud-messaging.md)  | 田源 | 黄莘 | —— |
 | 1504020518 | [Getting your Game on the Big Screen](1504020518-getting-your-game-on-the-big-screen.md)  | Guangwei Feng | Wallace4ever | —— |
