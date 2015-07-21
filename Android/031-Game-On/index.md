@@ -12,7 +12,7 @@ Game On! 系列主要适用于游戏开发者，也是字幕组最早翻译的�
 | -- | -- | -- | -- | -- |
 | 1503060393 | [Game On! - Pie Noon](1503060393-pie-noon.md)  | 葛佳恒 | 贺颂 | —— |
 | 1504030543 | [Game On! - The Death of Base Game Activity](1504030543-the-death-of-base-game-activity.md)  | 贺颂 | 段威 | —— |
-| 1504030546 | [Game On! - Surviving OpenGL Context Loss](http://pub.gfansub.com//Android/031-Game-On/1504030546-surviving-opengl-context-loss.md)  | 韩淼 | 素年待锦 | —— |
+| 1504030546 | [Game On! - Surviving OpenGL Context Loss](1504030546-surviving-opengl-context-loss.md)  | 韩淼 | 素年待锦 | —— |
 | 1504030547 | [Game On! - WebP for Game Devs](1504030547-webp-for-game-devs.md)  | eternity | 段威 | —— |
 | 1504070556 | [GameOn! - Saved Games In-Depth (Part 1)](1504070556-saved-games-in-depth-part_1.md)  | brite | 素年待锦 | —— |
 | 1504030548 | [GameOn! - Saved Games In-Depth (Part 2)](1504030548-saved-games-in-depth-part_2.md)  | wang7x | 苏楚霖 | 程路 |
