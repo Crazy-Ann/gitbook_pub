@@ -14,7 +14,7 @@
 | 1503120407 | [Keynote - Chrome Dev Summit 2014 (Darin Fisher)](1503120407-keynote-chrome-dev-summit-2014-darin-fisher.md)  | Eric Jin | 虎子 | 程路 |
 | 1503140412 | [TLS All the Things! - Security with Performance - Chrome Dev Summit 2014 (Chris Palmer)](1503140412-tls-all-the-things-security-with-performancechris-palmer.md)  | 苏楚霖 | 葛伟 | 程路 |
 | 1503150415 | [Let’s build some apps with Polymer! - Chrome Dev Summit 2014 (Rob Dodson)](1503150415-lets-build-some-apps-with-polymerrob-dodson.md)  | 张大贺 | 段威 | 程路 |
-| 1503150417 | [Day One Closing Remarks - Chrome Dev Summit 2014 (Sundar Pichai)](https://p1503150417-day-one-closing-remarkssundar-pichai.md)  | 伍文其 | 卢治泷 | 程路 |
+| 1503150417 | [Day One Closing Remarks - Chrome Dev Summit 2014 (Sundar Pichai)](1503150417-day-one-closing-remarkssundar-pichai.md)  | 伍文其 | 卢治泷 | 程路 |
 | 1503160422 | [Chrome Leadership panel - Chrome Dev Summit 2014](1503160422-chrome-leadership-panel.md)  | 田源 | Galory | —— |
 | 1503150416 | [Fundamentals of Mobile Web Development - Chrome Dev Summit 2014 (Matt Gaunt)](1503150416-fundamentals-of-mobile-web-developmentmatt-gaunt.md)  | Wallace4ever | 黄莘 | —— |
 
