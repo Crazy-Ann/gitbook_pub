@@ -1,6 +1,7 @@
 # Uncategorized
 
 宣传视频系列主要有介绍 Google Developers 项目的，有推介各种开发者大会的等等。这些视频们也是孤零零的，没有被归类到任何项目（播放列表）中。因此本类型的视频均为分类。
+
 讲师列表：
 
 *   [Bethany Fong](https://plus.google.com/+Bethany Fong )
