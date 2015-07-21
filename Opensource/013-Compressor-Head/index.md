@@ -12,7 +12,7 @@
 | -- | -- | -- | -- | -- |
 | 1503060385 | [Compressor Head - The Trailer, Season 2](1503060385-the-trailer-season-2.md)  | 柚子皮 | 韩晓健 | 程路 |
 | 1503210441 | [Compressor Head - Behind the Scenes](1503210441-behind-the-scenes.md)  | brite | 段威 | 程路 |
-| 1503070394 | [Arithmetic Compression (Ep 5, Compressor Head) Google](1503070394-arithmetic-compression-ep-5-compressor-head-google.md)  | Chris | lch | -- |
+| 1503070394 | [Arithmetic Compression (Ep 5, Compressor Head) Google](1503070394-arithmetic-compression-ep-5-compressor-head-google.md)  | Chris | lch | 程路 |
 | 1502120372 | [Introducing Compressor Head](1502120372-introducing-compressor-head.md)  | 周亿 | 程路 | -- |
 | 1502120373 | [Compressor Head - Episode 1 (Variable Length Codes)](1502120373-episode-1-variable-length-codes.md)  | 周亿 | -- | -- |
 | 1502120374 | [Compressor Head - Episode 2 (The LZ77 Compression Family)](1502120374-episode-2-the-lz77-compression-family.md)  | 周亿 | -- | -- |
