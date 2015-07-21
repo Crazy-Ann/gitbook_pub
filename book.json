@@ -7,7 +7,7 @@
     "pluginsConfig": {
         "duoshuo": {
         "short_name": "sub",
-        "theme": "BlueBox"
+        "theme": "bluebox"
         },
      "ga":{
         "token": "UA-41211546-3"
