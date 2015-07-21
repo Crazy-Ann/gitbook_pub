@@ -8,7 +8,7 @@
 
 ** 视频介绍**
 
-> Chet (@chethaase, google.com/+ChetHaase) and Romain (@romainguy, google.com/+RomainGuygoogle.com/+RomainG­uy) discuss Material Design and other new developer features in Android 5.0 Lollipop.
+> Chet (@chethaase, google.com/+ChetHaase) and Romain (@romainguy, google.com/+RomainGuygoogle.com/+RomainG-uy) discuss Material Design and other new developer features in Android 5.0 Lollipop.
 
 ** 视频推介语 **
 
@@ -19,7 +19,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| 苏楚霖 | 高冰 | -- | [ Youtube ]( https://www.youtube.com/watch?v=l2-yvOmq5B4 )  |  [ Youtube ]( https://www.youtube.com/watch?v=lcXvjud0Suc ) | 1504260740 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| 苏楚霖 | 高冰 | -- | [ Youtube ]( https://www.youtube.com/watch?v=l2-yvOmq5B4 )  |  [ Youtube ]( https://www.youtube.com/watch?v=lcXvjud0Suc ) | 1504260740 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 

@@ -19,7 +19,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| Wallace4ever | Guangwei Feng | -- | [ Youtube ]( https://www.youtube.com/watch?v=bEJNe9XMNdA )  |  [ Youtube ]( https://www.youtube.com/watch?v=bEJNe9XMNdA ) | 1505050796 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| Wallace4ever | Guangwei Feng | -- | [ Youtube ]( https://www.youtube.com/watch?v=bEJNe9XMNdA )  |  [ Youtube ]( https://www.youtube.com/watch?v=bEJNe9XMNdA ) | 1505050796 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 

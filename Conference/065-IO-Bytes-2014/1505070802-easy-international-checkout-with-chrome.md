@@ -19,7 +19,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| wang7x | wang7x | —— | [ Youtube ]( https://www.youtube.com/watch?v=ljYeHwGgzQk )  |  [ Youtube ]( https://www.youtube.com/watch?v=RK7hGQJvhZA ) | 1505070802 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| wang7x | wang7x | —— | [ Youtube ]( https://www.youtube.com/watch?v=ljYeHwGgzQk )  |  [ Youtube ]( https://www.youtube.com/watch?v=RK7hGQJvhZA ) | 1505070802 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 

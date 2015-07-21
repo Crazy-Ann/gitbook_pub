@@ -19,7 +19,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| 虞高 | 高冰 | 程路 | [ Youtube ]( https://www.youtube.com/watch?v=bMPWMoe5UfI )  |  [ Youtube ]( https://www.youtube.com/watch?v=IDyYYyPMQgI ) | 1503290472 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| 虞高 | 高冰 | 程路 | [ Youtube ]( https://www.youtube.com/watch?v=bMPWMoe5UfI )  |  [ Youtube ]( https://www.youtube.com/watch?v=IDyYYyPMQgI ) | 1503290472 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 

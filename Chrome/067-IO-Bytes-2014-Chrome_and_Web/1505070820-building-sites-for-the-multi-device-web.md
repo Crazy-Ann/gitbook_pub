@@ -19,7 +19,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| 韩淼 | 韩晓健 | -- | [ Youtube ]( https://www.youtube.com/watch?v=oK09n_PGhTo)  |  [ Youtube ]( https://www.youtube.com/watch?v=roo3WGEyHWk ) | 1505070820 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| 韩淼 | 韩晓健 | -- | [ Youtube ]( https://www.youtube.com/watch?v=oK09n_PGhTo)  |  [ Youtube ]( https://www.youtube.com/watch?v=roo3WGEyHWk ) | 1505070820 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 

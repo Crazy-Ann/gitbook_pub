@@ -20,7 +20,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| 柚子皮 | 高冰 | —— | [ Youtube ]( https://www.youtube.com/watch?v=UqolCJsvD_g&list=PLOU2XLYxmsIIwGK7v7jg3gQvIAWJzdat_&index=17 )  |  [ Youtube ]( https://www.youtube.com/watch?v=PgdcTZW-BPM&list=PLvivLNHqjoowK2IZ9j_NYIucUrGgdiDrT&index=27 ) | 1505070810 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| 柚子皮 | 高冰 | —— | [ Youtube ]( https://www.youtube.com/watch?v=UqolCJsvD_g&list=PLOU2XLYxmsIIwGK7v7jg3gQvIAWJzdat_&index=17 )  |  [ Youtube ]( https://www.youtube.com/watch?v=PgdcTZW-BPM&list=PLvivLNHqjoowK2IZ9j_NYIucUrGgdiDrT&index=27 ) | 1505070810 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 

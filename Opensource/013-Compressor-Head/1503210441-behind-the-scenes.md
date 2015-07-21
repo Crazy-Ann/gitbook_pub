@@ -19,7 +19,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| brite | 段威 | 程路 | [ Youtube ]( https://www.youtube.com/watch?v=MvxQkVnpPc8 )  |  [ Youtube ]( https://www.youtube.com/watch?v=MDgu5F0--rA ) | 1503210441 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| brite | 段威 | 程路 | [ Youtube ]( https://www.youtube.com/watch?v=MvxQkVnpPc8 )  |  [ Youtube ]( https://www.youtube.com/watch?v=MDgu5F0--rA ) | 1503210441 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 

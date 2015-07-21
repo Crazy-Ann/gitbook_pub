@@ -20,7 +20,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| 素年待锦 | 葛伟 | —— | [ Youtube ]( https://www.youtube.com/watch?v=brvh8NreUwE&list=PLOU2XLYxmsIK4Kyt5EY-iJY3c7YsSNC8i&index=3 )  |  [ Youtube ]( https://www.youtube.com/watch?v=bkW3dxtoJ5k&index=12&list=PLvivLNHqjoowK2IZ9j_NYIucUrGgdiDrT ) | 1504120602 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| 素年待锦 | 葛伟 | —— | [ Youtube ]( https://www.youtube.com/watch?v=brvh8NreUwE&list=PLOU2XLYxmsIK4Kyt5EY-iJY3c7YsSNC8i&index=3 )  |  [ Youtube ]( https://www.youtube.com/watch?v=bkW3dxtoJ5k&index=12&list=PLvivLNHqjoowK2IZ9j_NYIucUrGgdiDrT ) | 1504120602 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 

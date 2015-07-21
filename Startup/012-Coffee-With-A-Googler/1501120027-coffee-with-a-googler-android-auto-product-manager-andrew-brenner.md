@@ -19,7 +19,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| 鲁登科 | 周亿 | -- | [ Youtube ]( https://www.youtube.com/watch?v=QQF40qveBjg&index=1&list=PLOU2XLYxmsIJP13VD_Cg8qS5g2bKWTaYx )  |  [ Youtube ]( https://www.youtube.com/watch?v=QQF40qveBjg&index=1&list=PLOU2XLYxmsIJP13VD_Cg8qS5g2bKWTaYx ) | 1501120027 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| 鲁登科 | 周亿 | -- | [ Youtube ]( https://www.youtube.com/watch?v=QQF40qveBjg&index=1&list=PLOU2XLYxmsIJP13VD_Cg8qS5g2bKWTaYx )  |  [ Youtube ]( https://www.youtube.com/watch?v=QQF40qveBjg&index=1&list=PLOU2XLYxmsIJP13VD_Cg8qS5g2bKWTaYx ) | 1501120027 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 

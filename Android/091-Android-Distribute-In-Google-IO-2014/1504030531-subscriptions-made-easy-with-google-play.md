@@ -20,7 +20,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| Galory | 點墨 | —— | [ Youtube ]( https://www.youtube.com/watch?v=GR2s3L9_ziQ )  |  [ Youtube ]( https://www.youtube.com/watch?v=-Cz_sdzOpJ4&index=8&list=PLvivLNHqjoozvtCAfxwudl-mJ2CVLKZGB ) | 1504030531 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| Galory | 點墨 | —— | [ Youtube ]( https://www.youtube.com/watch?v=GR2s3L9_ziQ )  |  [ Youtube ]( https://www.youtube.com/watch?v=-Cz_sdzOpJ4&index=8&list=PLvivLNHqjoozvtCAfxwudl-mJ2CVLKZGB ) | 1504030531 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 

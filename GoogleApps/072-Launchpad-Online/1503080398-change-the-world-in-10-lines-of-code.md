@@ -20,7 +20,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| 柚子皮 | xin.zhang | ——| [ Youtube ]( https://www.youtube.com/watch?v=eZj7uM9HaMg )  |  [ Youtube ]( https://www.youtube.com/watch?v=0-QF7QiaCjU&list=PLvivLNHqjooyPKHS5fgnxad23wtd073Re&index=2 ) | 1503080398 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| 柚子皮 | xin.zhang | ——| [ Youtube ]( https://www.youtube.com/watch?v=eZj7uM9HaMg )  |  [ Youtube ]( https://www.youtube.com/watch?v=0-QF7QiaCjU&list=PLvivLNHqjooyPKHS5fgnxad23wtd073Re&index=2 ) | 1503080398 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 

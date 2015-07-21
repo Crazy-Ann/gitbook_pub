@@ -18,7 +18,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| Uucky | Galory | -- | [ Youtube ]( https://www.youtube.com/watch?v=5Pro9WpF2LE )  |  [ Youtube ]( https://www.youtube.com/watch?v=WMztHjzJt84 ) | 1504070563 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| Uucky | Galory | -- | [ Youtube ]( https://www.youtube.com/watch?v=5Pro9WpF2LE )  |  [ Youtube ]( https://www.youtube.com/watch?v=WMztHjzJt84 ) | 1504070563 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 ### 解说词中文版：

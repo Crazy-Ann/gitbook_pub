@@ -18,7 +18,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | ----|----|----|----|----|----|----|
-| 伍文其 | Wallace4ever | -- | [ Youtube ]( https://www.youtube.com/watch?v=6VjF638VObA ) | [ Youtube ](https://www.youtube.com/watch?v=czwKDhAdtoA) | 1504010489 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator ) |
+| 伍文其 | Wallace4ever | -- | [ Youtube ]( https://www.youtube.com/watch?v=6VjF638VObA ) | [ Youtube ](https://www.youtube.com/watch?v=czwKDhAdtoA) | 1504010489 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator ) |
 
 
 ### 解说词中文版：
@@ -183,7 +183,7 @@ Android的高层媒体播放器的方案
 
 谷歌的YouTube和播放电影的应用
 
-已经在一些较新的Andr​​oid设备上使用了
+已经在一些较新的Android设备上使用了
 
 
 而我们也看到了一些了不起的结果

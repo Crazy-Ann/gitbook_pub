@@ -20,7 +20,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| 韩晓健 | 苏楚霖 | —— | [ Youtube ]( https://www.youtube.com/watch?v=Q96Sw6v4ULg )  |  [ Youtube ]( https://www.youtube.com/watch?v=3wsx2MzILB4&index=4&list=PLvivLNHqjoowK2IZ9j_NYIucUrGgdiDrT ) | 1504130616 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| 韩晓健 | 苏楚霖 | —— | [ Youtube ]( https://www.youtube.com/watch?v=Q96Sw6v4ULg )  |  [ Youtube ]( https://www.youtube.com/watch?v=3wsx2MzILB4&index=4&list=PLvivLNHqjoowK2IZ9j_NYIucUrGgdiDrT ) | 1504130616 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 

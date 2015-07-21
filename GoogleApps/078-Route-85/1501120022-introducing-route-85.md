@@ -19,7 +19,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| linda | chenglu | -- | [ Youtube ]( https://www.youtube.com/watch?v=cvyk5iRymqA )  |  [ Youtube ]( https://www.youtube.com/watch?v=cvyk5iRymqA ) | 1501120022 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| linda | chenglu | -- | [ Youtube ]( https://www.youtube.com/watch?v=cvyk5iRymqA )  |  [ Youtube ]( https://www.youtube.com/watch?v=cvyk5iRymqA ) | 1501120022 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 

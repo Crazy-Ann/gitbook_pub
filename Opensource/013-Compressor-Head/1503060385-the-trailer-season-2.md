@@ -19,7 +19,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| 柚子皮 | 韩晓健 | 程路 | [ Youtube ]( https://www.youtube.com/watch?v=o5hzkxXdCwk )  |  [ Youtube ]( https://www.youtube.com/watch?v=yG109NvfJXs ) | 1503060385 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| 柚子皮 | 韩晓健 | 程路 | [ Youtube ]( https://www.youtube.com/watch?v=o5hzkxXdCwk )  |  [ Youtube ]( https://www.youtube.com/watch?v=yG109NvfJXs ) | 1503060385 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 

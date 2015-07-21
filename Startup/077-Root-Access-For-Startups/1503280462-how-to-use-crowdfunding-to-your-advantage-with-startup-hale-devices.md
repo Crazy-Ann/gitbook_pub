@@ -20,7 +20,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| 素年待锦 | 韩晓健 | ——| [ Youtube ]( https://www.youtube.com/watch?v=ewd7dfWnAIo&index=7&list=PLOU2XLYxmsILjw2c4ImxWXvi4vPrLCjYv )  |  [ Youtube ]( https://www.youtube.com/watch?v=Lcf1HW4paUQ&index=36&list=PLvivLNHqjoowK2IZ9j_NYIucUrGgdiDrT ) | 1503280462 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| 素年待锦 | 韩晓健 | ——| [ Youtube ]( https://www.youtube.com/watch?v=ewd7dfWnAIo&index=7&list=PLOU2XLYxmsILjw2c4ImxWXvi4vPrLCjYv )  |  [ Youtube ]( https://www.youtube.com/watch?v=Lcf1HW4paUQ&index=36&list=PLvivLNHqjoowK2IZ9j_NYIucUrGgdiDrT ) | 1503280462 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 

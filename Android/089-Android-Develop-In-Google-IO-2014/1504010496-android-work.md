@@ -18,7 +18,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | ----|----|----|----|----|----|----|
-| 卢治泷 | Martin | -- | [ Youtube ]( https://www.youtube.com/watch?v=FbVWtYPpzIs ) | [ Youtube ](https://www.youtube.com/watch?v=VPl7XOmEisc) | 1504010496 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator ) |
+| 卢治泷 | Martin | -- | [ Youtube ]( https://www.youtube.com/watch?v=FbVWtYPpzIs ) | [ Youtube ](https://www.youtube.com/watch?v=VPl7XOmEisc) | 1504010496 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator ) |
 
 
 ### 解说词中文版：

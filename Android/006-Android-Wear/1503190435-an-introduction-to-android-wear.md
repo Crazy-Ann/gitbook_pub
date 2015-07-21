@@ -19,7 +19,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| Guangwei Feng  | 點墨 | 程路 | [ Youtube ]( https://www.youtube.com/watch?v=Bl4Qne-RpcM )  |  [ Youtube ]( https://www.youtube.com/watch?v=wH3EZO0ChbA) | 1503190435 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| Guangwei Feng  | 點墨 | 程路 | [ Youtube ]( https://www.youtube.com/watch?v=Bl4Qne-RpcM )  |  [ Youtube ]( https://www.youtube.com/watch?v=wH3EZO0ChbA) | 1503190435 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 

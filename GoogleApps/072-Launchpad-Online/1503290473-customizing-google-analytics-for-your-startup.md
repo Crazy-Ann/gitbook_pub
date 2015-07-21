@@ -20,7 +20,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| 张大贺 | 素年待锦 | ——| [ Youtube ]( https://www.youtube.com/watch?v=WLO3vVEsO9o&index=2&list=PLOU2XLYxmsILOIxBRPPhgYbuSslr50KVq )  |  [ Youtube ]( https://www.youtube.com/watch?v=bSrQrZiNe9w&list=PLvivLNHqjoowK2IZ9j_NYIucUrGgdiDrT&index=61 ) | 1503290473 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| 张大贺 | 素年待锦 | ——| [ Youtube ]( https://www.youtube.com/watch?v=WLO3vVEsO9o&index=2&list=PLOU2XLYxmsILOIxBRPPhgYbuSslr50KVq )  |  [ Youtube ]( https://www.youtube.com/watch?v=bSrQrZiNe9w&list=PLvivLNHqjoowK2IZ9j_NYIucUrGgdiDrT&index=61 ) | 1503290473 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 

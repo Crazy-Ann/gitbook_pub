@@ -20,7 +20,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| 艾雪媛 | Wallace4ever | —— | [ Youtube ]( https://www.youtube.com/watch?v=9jkwjAPas_8&index=2&list=PLOU2XLYxmsILfBNIVzWsfIscQCxso4gfs )  |  [ Youtube ]( https://www.youtube.com/watch?v=Hw3Upx6N4qA&index=17&list=PLvivLNHqjoowcHLv6e2X2TpT08IDKOV1H ) | 1504180663 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| 艾雪媛 | Wallace4ever | —— | [ Youtube ]( https://www.youtube.com/watch?v=9jkwjAPas_8&index=2&list=PLOU2XLYxmsILfBNIVzWsfIscQCxso4gfs )  |  [ Youtube ]( https://www.youtube.com/watch?v=Hw3Upx6N4qA&index=17&list=PLvivLNHqjoowcHLv6e2X2TpT08IDKOV1H ) | 1504180663 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 

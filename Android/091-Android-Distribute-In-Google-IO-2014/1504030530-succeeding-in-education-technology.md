@@ -19,7 +19,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| 黄莘 | 陈林 | —— | [ Youtube ]( https://www.youtube.com/watch?v=Eh2adsAyTKc )  |  [ Youtube ]( https://www.youtube.com/watch?v=D9Fgcf3IbOU ) | 1504030530 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| 黄莘 | 陈林 | —— | [ Youtube ]( https://www.youtube.com/watch?v=Eh2adsAyTKc )  |  [ Youtube ]( https://www.youtube.com/watch?v=D9Fgcf3IbOU ) | 1504030530 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 
@@ -251,7 +251,7 @@ Google Play允许
 
 即使app没开放
 
-因此Google Play提供了很多特别的Andr​​oid设计元素
+因此Google Play提供了很多特别的Android设计元素
 
 如丰富的notification  widget和wallpaper
 
@@ -353,7 +353,7 @@ Agnitus  这是一个孩子们的自适应学习系统
 
 和为app付费的人
 
-了解课程设​​置  数据和分析
+了解课程设置  数据和分析
 
 想想可扩展性  包括数据结构方面
 

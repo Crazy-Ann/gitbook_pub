@@ -19,7 +19,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| 虎子 | 葛佳恒 | -- | [ Youtube ]( https://www.youtube.com/watch?v=Z5G0luBohCg )  |  [ Youtube ]( https://www.youtube.com/watch?v=H0LZSZ9ihfw ) | 1503190429 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| 虎子 | 葛佳恒 | -- | [ Youtube ]( https://www.youtube.com/watch?v=Z5G0luBohCg )  |  [ Youtube ]( https://www.youtube.com/watch?v=H0LZSZ9ihfw ) | 1503190429 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 

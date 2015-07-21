@@ -18,7 +18,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| 隆斯朝 | 田源 | -- | [ Youtube ]( https://www.youtube.com/watch?v=USRLez_6Me0 )  |  [ Youtube ]( https://www.youtube.com/watch?v=Qr4YI99TYeg ) | 1504070561 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| 隆斯朝 | 田源 | -- | [ Youtube ]( https://www.youtube.com/watch?v=USRLez_6Me0 )  |  [ Youtube ]( https://www.youtube.com/watch?v=Qr4YI99TYeg ) | 1504070561 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 ### 解说词中文版：

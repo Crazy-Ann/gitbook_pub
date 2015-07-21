@@ -20,7 +20,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| 段威 | 高冰 | ——| [ Youtube ]( https://www.youtube.com/watch?v=VYvt0gpeFW4&list=PLOU2XLYxmsIKkdC4GCZp3JGrY4ctWHnHo&index=15 )  |  [ Youtube ]( https://www.youtube.com/watch?v=LKpA85wMuG8&index=6&list=PLvivLNHqjoowK2IZ9j_NYIucUrGgdiDrT ) | 1504300777 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| 段威 | 高冰 | ——| [ Youtube ]( https://www.youtube.com/watch?v=VYvt0gpeFW4&list=PLOU2XLYxmsIKkdC4GCZp3JGrY4ctWHnHo&index=15 )  |  [ Youtube ]( https://www.youtube.com/watch?v=LKpA85wMuG8&index=6&list=PLvivLNHqjoowK2IZ9j_NYIucUrGgdiDrT ) | 1504300777 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 

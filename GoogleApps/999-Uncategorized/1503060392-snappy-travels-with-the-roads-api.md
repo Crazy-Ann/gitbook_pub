@@ -20,7 +20,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| weiwei | 贺颂 | 程路 | [ Youtube ]( https://www.youtube.com/watch?v=e5YDb-XnDVk )  |  [ Youtube ]( https://www.youtube.com/watch?v=RSw9_-i5LCI ) | 1503060392 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| weiwei | 贺颂 | 程路 | [ Youtube ]( https://www.youtube.com/watch?v=e5YDb-XnDVk )  |  [ Youtube ]( https://www.youtube.com/watch?v=RSw9_-i5LCI ) | 1503060392 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 

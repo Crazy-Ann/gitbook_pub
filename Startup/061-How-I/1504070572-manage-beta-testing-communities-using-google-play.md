@@ -19,7 +19,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| Wallace4ever | 田源 | -- | [ Youtube ]( https://www.youtube.com/watch?v=wZ-vmosZzFI )  |  [ Youtube ]( https://www.youtube.com/watch?v=st6wleGtSb4 ) | 1504070572 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| Wallace4ever | 田源 | -- | [ Youtube ]( https://www.youtube.com/watch?v=wZ-vmosZzFI )  |  [ Youtube ]( https://www.youtube.com/watch?v=st6wleGtSb4 ) | 1504070572 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 ### 解说词中文版：

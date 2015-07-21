@@ -18,7 +18,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | ----|----|----|----|----|----|----|
-| lch | 任皓 | -- | [ Youtube ]( https://www.youtube.com/watch?v=_M3z_vu45to ) | [ Youtube ](https://www.youtube.com/watch?v=rCzhSjmZiy4) | 1504020511 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator ) |
+| lch | 任皓 | -- | [ Youtube ]( https://www.youtube.com/watch?v=_M3z_vu45to ) | [ Youtube ](https://www.youtube.com/watch?v=rCzhSjmZiy4) | 1504020511 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator ) |
 
 
 ### 解说词中文版：

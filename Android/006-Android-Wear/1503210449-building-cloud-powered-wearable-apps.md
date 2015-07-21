@@ -20,7 +20,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| 段威 | 素年待锦 | 程路 | [ Youtube ]( https://www.youtube.com/watch?v=HAQ1UFu3b5M )  |  [ Youtube ]( https://www.youtube.com/watch?v=syp3_bun76o ) | 1503210449 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| 段威 | 素年待锦 | 程路 | [ Youtube ]( https://www.youtube.com/watch?v=HAQ1UFu3b5M )  |  [ Youtube ]( https://www.youtube.com/watch?v=syp3_bun76o ) | 1503210449 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 

@@ -1,4 +1,5 @@
 {
+	"version": "2.x.x",
     "plugins": [
         "duoshuo",
         "ga"
@@ -8,8 +9,11 @@
         "short_name": "sub",
         "theme": "default"
         },
-        "ga":{
-            "token": "UA-41211546-3"
+     "ga":{
+        "token": "UA-41211546-3"
         }
-    }
+    },
+    "variables": {
+	        "host": "http://beta.gfansub.com"
+			}
 }

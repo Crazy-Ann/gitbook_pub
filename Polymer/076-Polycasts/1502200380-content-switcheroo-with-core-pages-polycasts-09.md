@@ -20,7 +20,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| Galory | 任皓 | —— | [ Youtube ]( https://www.youtube.com/watch?v=6x2A9UgLqEw )  |  [ Youtube ]( https://www.youtube.com/watch?v=W13blgxwfKo&index=39&list=PLvivLNHqjooz0jg-8ShYbWz4BERNNNR6Q ) | 1502200380 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| Galory | 任皓 | —— | [ Youtube ]( https://www.youtube.com/watch?v=6x2A9UgLqEw )  |  [ Youtube ]( https://www.youtube.com/watch?v=W13blgxwfKo&index=39&list=PLvivLNHqjooz0jg-8ShYbWz4BERNNNR6Q ) | 1502200380 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 

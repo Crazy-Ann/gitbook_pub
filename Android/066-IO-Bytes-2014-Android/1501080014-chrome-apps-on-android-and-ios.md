@@ -20,7 +20,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| 周亿 | 程路 | 程路 | [ Youtube ]( https://www.youtube.com/watch?v=nU4lvgTrjFI )  |  [ Youtube ]( https://www.youtube.com/watch?v=nU4lvgTrjFI ) | 1501080014 | [ 加入 GDG 字幕组 ]( http://www.gfansub.com/join_translator )  |
+| 周亿 | 程路 | 程路 | [ Youtube ]( https://www.youtube.com/watch?v=nU4lvgTrjFI )  |  [ Youtube ]( https://www.youtube.com/watch?v=nU4lvgTrjFI ) | 1501080014 | [ 加入 GDG 字幕组 ]( {{ book.host }}/join_translator )  |
 
 
 
