@@ -8,7 +8,7 @@
 
 | 翻译流水号 | 视频名称 | 翻译 | 润稿 | 终审 |
 | -- | -- | -- | -- | -- |
-| 1501190370 | [Introducing Google Cloud Platform Resources](https://pub.gfansub.com/Cloud/999-Uncategorized/1501190370-introducing-google-cloud-platform-resources.html)  | 姜昭宇 | 程路 | 程路 |
+| 1501190370 | [Introducing Google Cloud Platform Resources](1501190370-introducing-google-cloud-platform-resources.html)  | 姜昭宇 | 程路 | 程路 |
 
 该项目视频在 YouTube 上并未分类。
 
