@@ -11,7 +11,7 @@
 
 | 翻译流水号 | 视频名称 | 翻译 | 润稿 | 终审 |
 | -- | -- | -- | -- | -- |
-| 1503290481 | [Maps Live: New Features in the Google Maps Mobile APIs for Android and iOS](1504300777-maps-live-new-features-in-the-google-maps-mobile-apis-for-android-and-ios.md)  | 段威 | 高冰 | —— |
+| 1504300777 | [Maps Live: New Features in the Google Maps Mobile APIs for Android and iOS](1504300777-maps-live-new-features-in-the-google-maps-mobile-apis-for-android-and-ios.md)  | 段威 | 高冰 | —— |
 
 
 [查看该项目所有视频（YouTube）](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKkdC4GCZp3JGrY4ctWHnHo)
