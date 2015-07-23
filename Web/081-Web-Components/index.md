@@ -9,7 +9,7 @@
 
 讲师列表：
 
-*   [Eiji Kitamura](https://plus.google.com/+EijiKitamura)
+*   [Eiji Kitamura](https://plus.google.com/+agektmr/posts)
  
 视频列表：
 
