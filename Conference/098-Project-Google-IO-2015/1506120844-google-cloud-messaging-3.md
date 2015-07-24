@@ -1,10 +1,10 @@
-## Project Tango - Mobile 3D tracking and perception
+## Google Cloud Messaging 3.0
 
 ![video_screenshot](images/gJatfdattno.jpg)
 
 ** 视频发布时间**
  
-> 2015年5月29日
+> 2015年5月28日
 
 ** 视频介绍**
 
@@ -19,7 +19,7 @@
 
 | 翻译 | 润稿 | 终审 | 原始链接 | 中文字幕 |  翻译流水号  |  加入字幕组  |
 | -- | -- | -- | -- | -- |  -- | -- | -- |
-| 虞高 | —— | —— | [ Youtube ]( https://www.youtube.com/watch?v=gJatfdattno )  |  [ Youtube ]( https://www.youtube.com/watch?v=ho1Ql0tYFRg ) | 1506120857 | [ 加入 GDG 字幕组 ]( http://beta.gfansub.com/join_translator )  |
+| 虞高 | —— | —— | [ Youtube ]( https://www.youtube.com/watch?v=gJatfdattno )  |  [ Youtube ]( https://www.youtube.com/watch?v=ho1Ql0tYFRg ) | 1506120844 | [ 加入 GDG 字幕组 ]( http://beta.gfansub.com/join_translator )  |
 
 
 
