@@ -236,6 +236,7 @@
        * [Playtime Shanghai event sizzle reel - 1504070552](Conference/095-PlayTime-Shanghai/1504070552-playtime-shanghai-event-sizzle-reel.md)
    * [Project Google I/O 2015 - 098](Conference/098-Project-Google-IO-2015/index.md)
        * [Project Tango Mobile 3D tracking and perception - 1506120857](Conference/098-Project-Google-IO-2015/1506120857-project-tango-mobile-3d-tracking-and-perception.md)
+       * Democratizing Education - 1506120868
 * [开源开放技术](Opensource/index.md)
    * [Compressor Head - 013](Opensource/013-Compressor-Head/index.md)
        * [The Trailer, Season 2 - 1503060385](Opensource/013-Compressor-Head/1503060385-the-trailer-season-2.md)
