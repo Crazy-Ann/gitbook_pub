@@ -239,7 +239,7 @@
        * [Democratizing Education - 1506120868](Conference/098-Project-Google-IO-2015/1506120868-democratizing-education.md)
        * [Improve your Android app’s accessibility - 1506120864](Conference/098-Project-Google-IO-2015/1506120864-improve-your-android-apps-accessibility.md)
        * [Google Cloud Messaging 3.0 - 1506120844](Conference/098-Project-Google-IO-2015/1506120844-google-cloud-messaging-3.md)
-       * Developers connecting the world through Google Play - 1506120862
+       * [Developers connecting the world through Google Play - 1506120862](Conference/098-Project-Google-IO-2015/1506120862-developers-connecting-the-world-through-google-play.md)
 * [开源开放技术](Opensource/index.md)
    * [Compressor Head - 013](Opensource/013-Compressor-Head/index.md)
        * [The Trailer, Season 2 - 1503060385](Opensource/013-Compressor-Head/1503060385-the-trailer-season-2.md)
