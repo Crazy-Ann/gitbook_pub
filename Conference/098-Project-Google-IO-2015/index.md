@@ -4,8 +4,11 @@
 
 讲师列表：
 
-*   [Colt McAnlis](https://plus.google.com/+ColtMcAnlis)
-*   [Jason Kinner](https://plus.google.com/+JasonKinner)
+*   [Francesco Nerieri](https://plus.google.com/+FrancescoNerieri/posts)
+*   [Subir Jhanb](https://plus.google.com/109689661825025374175/posts)
+*   [Tingmui Li](https://plus.google.com/102750168774085574136/posts)
+*   [Ellie Powers](https://plus.google.com/+ElliePowers/posts)
+
  
 视频列表：
 
