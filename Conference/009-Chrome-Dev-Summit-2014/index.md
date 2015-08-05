@@ -2,6 +2,8 @@
 
 每年一次的 Chrome 开发者高峰会议是一个了解最新互联网技术的盛会，将有谷歌Chrome产品部门的工程师们，和我们开发技术推广部门的工程师们，向大家介绍Chrome浏览器的最新技术发展，以及包括Polymer等在内的基于基于浏览器进行网络应用开发的最新开放型技术。[via](http://chinagdg.com/thread-4238-1-1.md)
 
+2015年 Chrome 开发者高峰会议中国报名内部举荐通道：[申请](http://www.chinagdg.com/thread-27700-1-1.html)
+
 讲师列表：
 
 *   [Ryan Schoen](https://plus.google.com/+RyanSchoen )
